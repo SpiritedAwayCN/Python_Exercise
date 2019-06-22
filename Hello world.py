@@ -1,0 +1,5 @@
+print ( " \t12 34 \n ".strip())
+print( " \t12 34 ,ab\n ".split())
+print( " \t12 34 ,ab,cd\n ".split(","))
+y = " \t12,.34 ,ab,.cd\n ".split()
+print(y[1])
