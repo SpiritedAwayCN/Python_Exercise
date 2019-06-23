@@ -10,7 +10,7 @@ def get_number():
     return number_table
 
 def equal_float(a, b):
-    return abs(a-b) < sys.float_info.epsilon
+    return abs(a-b) < 1e-6 #sys.float_info.epsilon
 
 def Game_Run():
     number_table = get_number()
