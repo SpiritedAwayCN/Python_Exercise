@@ -1,5 +1,5 @@
 import operator
-from stack import Stack
+from .stack import Stack
 
 def is_number(num):
     try:
@@ -19,13 +19,12 @@ def calc(num1, num2, oper):
     elif oper == '/':
         return num1 / num2
     else:
-        raise Exception("Unkown operator '"+oper+"'!")
+        raise Exception("Unexpected operator '"+oper+"'!")
 
 class Expression:
     __oper_tuple = '+','-','*','/','(',')'
     __priority = {'*':3, '/':3, '+':2, '-':2, '(':1}
     def __init__(self, expr):
-        self.invalid = False
         self.expression = ''
         for ch in expr:
             if ch in self.__oper_tuple:
@@ -33,8 +32,7 @@ class Expression:
             elif ch.isdigit() or ch=='.':
                 self.expression+=ch
             elif ch!=' ':
-                self.invalid_expression = True
-                break
+                raise Exception("Invalid expression!")
         self.token_table = self.expression.split()
 
     def judge(self, number_table):
@@ -80,11 +78,11 @@ class Expression:
             raise Exception("Too many numbers!")
         return ans
 
-while True:
-    string = input()
-    calc_task = Expression(string)
+# while True:
+#     string = input()
+#     calc_task = Expression(string)
 
-    try:
-        print("%.3f"%calc_task.Get_value())
-    except Exception as identifier:
-        print(identifier)
+#     try:
+#         print("%.3f"%calc_task.Get_value())
+#     except Exception as identifier:
+#         print(identifier)
