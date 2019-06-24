@@ -9,7 +9,8 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
+            "cwd": "${fileDirname}"
         },
         {
             "name": "Python: Remote Attach",
@@ -19,7 +20,7 @@
             "host": "localhost",
             "pathMappings": [
                 {
-                    "localRoot": "${workspaceFolder}",
+                    "localRoot": "${workspaceRoot}",
                     "remoteRoot": "."
                 }
             ]
