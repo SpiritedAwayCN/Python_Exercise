@@ -25,7 +25,7 @@ class HeadQuarter:
         cnt = 0
         while True:
             for obj in order_tuple:
-                if self.__element >= obj.strength:
+                if self.__element >= obj.init_strength:
                     cnt = 0
                     self.__soldier_id += 1
                     yield obj(self, self.__soldier_id)
@@ -42,7 +42,7 @@ class HeadQuarter:
             print(gametime, self, "stops making warriors")
             self.lose = True
             return
-        self.__element -= new_soldier.strength
+        self.__element -= new_soldier.init_strength
         self.__soldier_list.append(new_soldier)
         self.__soldier_count[new_soldier.type_name()] += 1
 

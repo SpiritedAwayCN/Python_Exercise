@@ -12,11 +12,11 @@ for T in range(case_number):
     libs.headquarter.HeadQuarter.init_element \
         = int(input_file.readline())
 
-    libs.soldier.Dragon.strength,  \
-        libs.soldier.Ninja.strength, \
-        libs.soldier.Iceman.strength, \
-        libs.soldier.Lion.strength, \
-        libs.soldier.Wolf.strength, \
+    libs.soldier.Dragon.init_strength,  \
+        libs.soldier.Ninja.init_strength, \
+        libs.soldier.Iceman.init_strength, \
+        libs.soldier.Lion.init_strength, \
+        libs.soldier.Wolf.init_strength, \
         = map(int, input_file.readline().split())
     
     Run()

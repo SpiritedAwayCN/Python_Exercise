@@ -11,26 +11,26 @@ class Soldier:
         return self.__class__.__name__.lower()
 
 class Dragon(Soldier):
-    strength = 0
+    init_strength = 0
     def __init__(self, team, id):
-        Soldier.__init__(self, team, self.strength, id)
+        Soldier.__init__(self, team, self.init_strength, id)
 
 class Ninja(Soldier):
-    strength = 0
+    init_strength = 0
     def __init__(self, team, id):
-        Soldier.__init__(self, team, self.strength, id)
+        Soldier.__init__(self, team, self.init_strength, id)
 
 class Iceman(Soldier):
-    strength = 0
+    init_strength = 0
     def __init__(self, team, id):
-        Soldier.__init__(self, team, self.strength, id)
+        Soldier.__init__(self, team, self.init_strength, id)
         
 class Lion(Soldier):
-    strength = 0
+    init_strength = 0
     def __init__(self, team, id):
-        Soldier.__init__(self, team, self.strength, id)
+        Soldier.__init__(self, team, self.init_strength, id)
 
 class Wolf(Soldier):
-    strength = 0
+    init_strength = 0
     def __init__(self, team, id):
-        Soldier.__init__(self, team, self.strength, id)
+        Soldier.__init__(self, team, self.init_strength, id)
