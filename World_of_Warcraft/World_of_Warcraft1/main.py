@@ -3,7 +3,7 @@ import libs.headquarter
 from libs.schedule import Run
 
 #input_file = open('data/sample.txt', 'r')
-input_file = open('data/input.txt')
+input_file = open('data/input.txt', 'r')
 
 case_number = int(input_file.readline())
 for T in range(case_number):
