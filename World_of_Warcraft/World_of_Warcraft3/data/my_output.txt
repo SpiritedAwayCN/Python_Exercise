@@ -1,0 +1,2032 @@
+Case 1:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 684
+000:10 red iceman 1 marched to city 1 with 61 elements and force 21
+000:10 blue lion 1 marched to city 20 with 58 elements and force 166
+000:50 675 elements in red headquarter
+000:50 684 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 61 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+001:00 red lion 2 born
+Its loyalty is 617
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 58 elements and force 166
+001:10 red iceman 1 marched to city 2 with 55 elements and force 21
+001:10 blue lion 1 marched to city 19 with 58 elements and force 166
+001:10 blue dragon 2 marched to city 20 with 135 elements and force 177
+001:50 617 elements in red headquarter
+001:50 549 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 55 elements
+001:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 red wolf 3 marched to city 1 with 159 elements and force 173
+002:10 red lion 2 marched to city 2 with 58 elements and force 166
+002:10 red iceman 1 marched to city 3 with 50 elements and force 21
+002:10 blue lion 1 marched to city 18 with 58 elements and force 166
+002:10 blue dragon 2 marched to city 19 with 135 elements and force 177
+002:10 blue ninja 3 marched to city 20 with 117 elements and force 189
+002:50 458 elements in red headquarter
+002:50 432 elements in blue headquarter
+002:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+002:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+002:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 50 elements
+002:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+002:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 117 elements and force 189
+003:10 red wolf 3 marched to city 2 with 159 elements and force 173
+003:10 red lion 2 marched to city 3 with 58 elements and force 166
+003:10 red iceman 1 marched to city 4 with 45 elements and force 21
+003:10 blue lion 1 marched to city 17 with 58 elements and force 166
+003:10 blue dragon 2 marched to city 18 with 135 elements and force 177
+003:10 blue ninja 3 marched to city 19 with 117 elements and force 189
+003:10 blue iceman 4 marched to city 20 with 61 elements and force 21
+003:50 341 elements in red headquarter
+003:50 365 elements in blue headquarter
+003:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+003:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+003:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+003:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 45 elements
+003:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+003:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+003:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+003:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 61 elements
+004:00 red dragon 5 born
+004:00 blue wolf 5 born
+004:10 red dragon 5 marched to city 1 with 135 elements and force 177
+004:10 red ninja 4 marched to city 2 with 117 elements and force 189
+004:10 red wolf 3 marched to city 3 with 159 elements and force 173
+004:10 red lion 2 marched to city 4 with 58 elements and force 166
+004:10 red iceman 1 marched to city 5 with 41 elements and force 21
+004:10 blue lion 1 marched to city 16 with 58 elements and force 166
+004:10 blue dragon 2 marched to city 17 with 135 elements and force 177
+004:10 blue ninja 3 marched to city 18 with 117 elements and force 189
+004:10 blue iceman 4 marched to city 19 with 55 elements and force 21
+004:10 blue wolf 5 marched to city 20 with 159 elements and force 173
+004:50 206 elements in red headquarter
+004:50 206 elements in blue headquarter
+004:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+004:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+004:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+004:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+004:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 41 elements
+004:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+004:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+004:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+004:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 55 elements
+004:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+005:00 red iceman 6 born
+005:00 blue lion 6 born
+Its loyalty is 148
+005:10 red iceman 6 marched to city 1 with 61 elements and force 21
+005:10 red dragon 5 marched to city 2 with 135 elements and force 177
+005:10 red ninja 4 marched to city 3 with 117 elements and force 189
+005:10 red wolf 3 marched to city 4 with 159 elements and force 173
+005:10 red lion 2 marched to city 5 with 58 elements and force 166
+005:10 red iceman 1 marched to city 6 with 37 elements and force 21
+005:10 blue lion 1 marched to city 15 with 58 elements and force 166
+005:10 blue dragon 2 marched to city 16 with 135 elements and force 177
+005:10 blue ninja 3 marched to city 17 with 117 elements and force 189
+005:10 blue iceman 4 marched to city 18 with 50 elements and force 21
+005:10 blue wolf 5 marched to city 19 with 159 elements and force 173
+005:10 blue lion 6 marched to city 20 with 58 elements and force 166
+005:50 139 elements in red headquarter
+005:50 148 elements in blue headquarter
+005:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 61 elements
+005:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+005:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+005:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+005:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+005:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 37 elements
+005:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+005:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+005:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+005:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 50 elements
+005:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+005:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 58 elements
+006:00 red lion 7 born
+Its loyalty is 81
+006:00 blue dragon 7 born
+006:10 red lion 7 marched to city 1 with 58 elements and force 166
+006:10 red iceman 6 marched to city 2 with 55 elements and force 21
+006:10 red dragon 5 marched to city 3 with 135 elements and force 177
+006:10 red ninja 4 marched to city 4 with 117 elements and force 189
+006:10 red wolf 3 marched to city 5 with 159 elements and force 173
+006:10 red lion 2 marched to city 6 with 58 elements and force 166
+006:10 red iceman 1 marched to city 7 with 34 elements and force 21
+006:10 blue lion 1 marched to city 14 with 58 elements and force 166
+006:10 blue dragon 2 marched to city 15 with 135 elements and force 177
+006:10 blue ninja 3 marched to city 16 with 117 elements and force 189
+006:10 blue iceman 4 marched to city 17 with 45 elements and force 21
+006:10 blue wolf 5 marched to city 18 with 159 elements and force 173
+006:10 blue lion 6 marched to city 19 with 58 elements and force 166
+006:10 blue dragon 7 marched to city 20 with 135 elements and force 177
+006:50 81 elements in red headquarter
+006:50 13 elements in blue headquarter
+006:55 red lion 7 has 0 sword 1 bomb 0 arrow and 58 elements
+006:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 55 elements
+006:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+006:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+006:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+006:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+006:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 34 elements
+006:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+006:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+006:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+006:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 45 elements
+006:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+006:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 58 elements
+006:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+007:05 blue lion 6 ran away
+007:10 red lion 7 marched to city 2 with 58 elements and force 166
+007:10 red iceman 6 marched to city 3 with 50 elements and force 21
+007:10 red dragon 5 marched to city 4 with 135 elements and force 177
+007:10 red ninja 4 marched to city 5 with 117 elements and force 189
+007:10 red wolf 3 marched to city 6 with 159 elements and force 173
+007:10 red lion 2 marched to city 7 with 58 elements and force 166
+007:10 red iceman 1 marched to city 8 with 31 elements and force 21
+007:10 blue lion 1 marched to city 13 with 58 elements and force 166
+007:10 blue dragon 2 marched to city 14 with 135 elements and force 177
+007:10 blue ninja 3 marched to city 15 with 117 elements and force 189
+007:10 blue iceman 4 marched to city 16 with 41 elements and force 21
+007:10 blue wolf 5 marched to city 17 with 159 elements and force 173
+007:10 blue dragon 7 marched to city 19 with 135 elements and force 177
+007:50 81 elements in red headquarter
+007:50 13 elements in blue headquarter
+007:55 red lion 7 has 0 sword 1 bomb 0 arrow and 58 elements
+007:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 50 elements
+007:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+007:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+007:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+007:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+007:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 31 elements
+007:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+007:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+007:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+007:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 41 elements
+007:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+007:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+008:05 red lion 7 ran away
+008:10 red iceman 6 marched to city 4 with 45 elements and force 21
+008:10 red dragon 5 marched to city 5 with 135 elements and force 177
+008:10 red ninja 4 marched to city 6 with 117 elements and force 189
+008:10 red wolf 3 marched to city 7 with 159 elements and force 173
+008:10 red lion 2 marched to city 8 with 58 elements and force 166
+008:10 red iceman 1 marched to city 9 with 28 elements and force 21
+008:10 blue lion 1 marched to city 12 with 58 elements and force 166
+008:10 blue dragon 2 marched to city 13 with 135 elements and force 177
+008:10 blue ninja 3 marched to city 14 with 117 elements and force 189
+008:10 blue iceman 4 marched to city 15 with 37 elements and force 21
+008:10 blue wolf 5 marched to city 16 with 159 elements and force 173
+008:10 blue dragon 7 marched to city 18 with 135 elements and force 177
+008:50 81 elements in red headquarter
+008:50 13 elements in blue headquarter
+008:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 45 elements
+008:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+008:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+008:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+008:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+008:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 28 elements
+008:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 58 elements
+008:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+008:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+008:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 37 elements
+008:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+008:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+009:05 blue lion 1 ran away
+009:10 red iceman 6 marched to city 5 with 41 elements and force 21
+009:10 red dragon 5 marched to city 6 with 135 elements and force 177
+009:10 red ninja 4 marched to city 7 with 117 elements and force 189
+009:10 red wolf 3 marched to city 8 with 159 elements and force 173
+009:10 red lion 2 marched to city 9 with 58 elements and force 166
+009:10 red iceman 1 marched to city 10 with 26 elements and force 21
+009:10 blue dragon 2 marched to city 12 with 135 elements and force 177
+009:10 blue ninja 3 marched to city 13 with 117 elements and force 189
+009:10 blue iceman 4 marched to city 14 with 34 elements and force 21
+009:10 blue wolf 5 marched to city 15 with 159 elements and force 173
+009:10 blue dragon 7 marched to city 17 with 135 elements and force 177
+009:50 81 elements in red headquarter
+009:50 13 elements in blue headquarter
+009:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 41 elements
+009:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+009:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+009:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+009:55 red lion 2 has 0 sword 0 bomb 1 arrow and 58 elements
+009:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 26 elements
+009:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 135 elements
+009:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+009:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 34 elements
+009:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+009:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+010:05 red lion 2 ran away
+010:10 red iceman 6 marched to city 6 with 37 elements and force 21
+010:10 red dragon 5 marched to city 7 with 135 elements and force 177
+010:10 red ninja 4 marched to city 8 with 117 elements and force 189
+010:10 red wolf 3 marched to city 9 with 159 elements and force 173
+010:10 red iceman 1 marched to city 11 with 24 elements and force 21
+010:10 blue dragon 2 marched to city 11 with 135 elements and force 177
+010:10 blue ninja 3 marched to city 12 with 117 elements and force 189
+010:10 blue iceman 4 marched to city 13 with 31 elements and force 21
+010:10 blue wolf 5 marched to city 14 with 159 elements and force 173
+010:10 blue dragon 7 marched to city 16 with 135 elements and force 177
+010:40 blue dragon 2 killed red iceman 1 in city 11 remaining 127 elements
+010:40 blue dragon 2 yelled in city 11
+010:50 81 elements in red headquarter
+010:50 13 elements in blue headquarter
+010:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 37 elements
+010:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+010:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+010:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+010:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 127 elements
+010:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+010:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 31 elements
+010:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+010:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+011:10 red iceman 6 marched to city 7 with 34 elements and force 21
+011:10 red dragon 5 marched to city 8 with 135 elements and force 177
+011:10 red ninja 4 marched to city 9 with 117 elements and force 189
+011:10 red wolf 3 marched to city 10 with 159 elements and force 173
+011:10 blue dragon 2 marched to city 10 with 127 elements and force 177
+011:10 blue ninja 3 marched to city 11 with 117 elements and force 189
+011:10 blue iceman 4 marched to city 12 with 28 elements and force 21
+011:10 blue wolf 5 marched to city 13 with 159 elements and force 173
+011:10 blue dragon 7 marched to city 15 with 135 elements and force 177
+011:35 red wolf 3 took 1 arrow from blue dragon 2 in city 10
+011:40 both red wolf 3 and blue dragon 2 were alive in city 10
+011:40 blue dragon 2 yelled in city 10
+011:50 81 elements in red headquarter
+011:50 13 elements in blue headquarter
+011:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 34 elements
+011:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 135 elements
+011:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 117 elements
+011:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 159 elements
+011:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 76 elements
+011:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 117 elements
+011:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 28 elements
+011:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+011:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+012:10 red iceman 6 marched to city 8 with 31 elements and force 21
+012:10 red dragon 5 marched to city 9 with 135 elements and force 177
+012:10 blue dragon 2 marched to city 9 with 76 elements and force 177
+012:10 red ninja 4 marched to city 10 with 117 elements and force 189
+012:10 blue ninja 3 marched to city 10 with 117 elements and force 189
+012:10 red wolf 3 marched to city 11 with 159 elements and force 173
+012:10 blue iceman 4 marched to city 11 with 26 elements and force 21
+012:10 blue wolf 5 marched to city 12 with 159 elements and force 173
+012:10 blue dragon 7 marched to city 14 with 135 elements and force 177
+012:35 red wolf 3 took 1 bomb from blue iceman 4 in city 11
+012:40 red dragon 5 killed blue dragon 2 in city 9 remaining 135 elements
+012:40 red dragon 5 yelled in city 9
+012:40 red ninja 4 killed blue ninja 3 in city 10 remaining 5 elements
+012:40 red wolf 3 killed blue iceman 4 in city 11 remaining 125 elements
+012:50 81 elements in red headquarter
+012:50 13 elements in blue headquarter
+012:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 31 elements
+012:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+012:55 red ninja 4 has 1 sword 0 bomb 1 arrow and 5 elements
+012:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+012:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 159 elements
+012:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+013:10 red iceman 6 marched to city 9 with 28 elements and force 21
+013:10 red dragon 5 marched to city 10 with 135 elements and force 177
+013:10 red ninja 4 marched to city 11 with 5 elements and force 189
+013:10 blue wolf 5 marched to city 11 with 159 elements and force 173
+013:10 red wolf 3 marched to city 12 with 125 elements and force 173
+013:10 blue dragon 7 marched to city 13 with 135 elements and force 177
+013:35 blue wolf 5 took 1 sword from red ninja 4 in city 11
+013:40 blue wolf 5 killed red ninja 4 in city 11 remaining 103 elements
+013:50 81 elements in red headquarter
+013:50 13 elements in blue headquarter
+013:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 28 elements
+013:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+013:55 blue wolf 5 has 1 sword 0 bomb 0 arrow and 103 elements
+013:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+013:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+014:10 red iceman 6 marched to city 10 with 26 elements and force 21
+014:10 blue wolf 5 marched to city 10 with 103 elements and force 173
+014:10 red dragon 5 marched to city 11 with 135 elements and force 177
+014:10 blue dragon 7 marched to city 12 with 135 elements and force 177
+014:10 red wolf 3 marched to city 13 with 125 elements and force 173
+014:35 blue wolf 5 took 1 sword from red iceman 6 in city 10
+014:40 blue wolf 5 killed red iceman 6 in city 10 remaining 103 elements
+014:50 81 elements in red headquarter
+014:50 13 elements in blue headquarter
+014:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+014:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+014:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+014:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+015:10 blue wolf 5 marched to city 9 with 103 elements and force 173
+015:10 blue dragon 7 marched to city 11 with 135 elements and force 177
+015:10 red dragon 5 marched to city 12 with 135 elements and force 177
+015:10 red wolf 3 marched to city 14 with 125 elements and force 173
+015:50 81 elements in red headquarter
+015:50 13 elements in blue headquarter
+015:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+015:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+015:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+015:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+016:10 blue wolf 5 marched to city 8 with 103 elements and force 173
+016:10 blue dragon 7 marched to city 10 with 135 elements and force 177
+016:10 red dragon 5 marched to city 13 with 135 elements and force 177
+016:10 red wolf 3 marched to city 15 with 125 elements and force 173
+016:50 81 elements in red headquarter
+016:50 13 elements in blue headquarter
+016:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+016:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+016:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+016:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+017:10 blue wolf 5 marched to city 7 with 103 elements and force 173
+017:10 blue dragon 7 marched to city 9 with 135 elements and force 177
+017:10 red dragon 5 marched to city 14 with 135 elements and force 177
+017:10 red wolf 3 marched to city 16 with 125 elements and force 173
+017:50 81 elements in red headquarter
+017:50 13 elements in blue headquarter
+017:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+017:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+017:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+017:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+018:10 blue wolf 5 marched to city 6 with 103 elements and force 173
+018:10 blue dragon 7 marched to city 8 with 135 elements and force 177
+018:10 red dragon 5 marched to city 15 with 135 elements and force 177
+018:10 red wolf 3 marched to city 17 with 125 elements and force 173
+018:50 81 elements in red headquarter
+018:50 13 elements in blue headquarter
+018:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+018:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+018:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+018:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+019:10 blue wolf 5 marched to city 5 with 103 elements and force 173
+019:10 blue dragon 7 marched to city 7 with 135 elements and force 177
+019:10 red dragon 5 marched to city 16 with 135 elements and force 177
+019:10 red wolf 3 marched to city 18 with 125 elements and force 173
+019:50 81 elements in red headquarter
+019:50 13 elements in blue headquarter
+019:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+019:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+019:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+019:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+020:10 blue wolf 5 marched to city 4 with 103 elements and force 173
+020:10 blue dragon 7 marched to city 6 with 135 elements and force 177
+020:10 red dragon 5 marched to city 17 with 135 elements and force 177
+020:10 red wolf 3 marched to city 19 with 125 elements and force 173
+020:50 81 elements in red headquarter
+020:50 13 elements in blue headquarter
+020:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+020:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+020:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+020:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+021:10 blue wolf 5 marched to city 3 with 103 elements and force 173
+021:10 blue dragon 7 marched to city 5 with 135 elements and force 177
+021:10 red dragon 5 marched to city 18 with 135 elements and force 177
+021:10 red wolf 3 marched to city 20 with 125 elements and force 173
+021:50 81 elements in red headquarter
+021:50 13 elements in blue headquarter
+021:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 103 elements
+021:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 135 elements
+021:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 135 elements
+021:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 125 elements
+022:10 blue wolf 5 marched to city 2 with 103 elements and force 173
+022:10 blue dragon 7 marched to city 4 with 135 elements and force 177
+022:10 red dragon 5 marched to city 19 with 135 elements and force 177
+022:10 red wolf 3 reached blue headquarter with 125 elements and force 173
+022:10 blue headquarter was taken
+Case 2:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 11
+000:10 red iceman 1 marched to city 1 with 27 elements and force 155
+000:10 blue lion 1 marched to city 5 with 180 elements and force 46
+000:50 161 elements in red headquarter
+000:50 11 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 27 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 180 elements
+001:05 blue lion 1 ran away
+001:10 red iceman 1 marched to city 2 with 25 elements and force 155
+001:50 161 elements in red headquarter
+001:50 11 elements in blue headquarter
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 25 elements
+002:10 red iceman 1 marched to city 3 with 23 elements and force 155
+002:50 161 elements in red headquarter
+002:50 11 elements in blue headquarter
+002:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 23 elements
+003:10 red iceman 1 marched to city 4 with 21 elements and force 155
+003:50 161 elements in red headquarter
+003:50 11 elements in blue headquarter
+003:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 21 elements
+004:10 red iceman 1 marched to city 5 with 19 elements and force 155
+004:50 161 elements in red headquarter
+004:50 11 elements in blue headquarter
+004:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 19 elements
+005:10 red iceman 1 reached blue headquarter with 18 elements and force 155
+005:10 blue headquarter was taken
+Case 3:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 1818
+000:10 red iceman 1 marched to city 1 with 173 elements and force 38
+000:10 blue lion 1 marched to city 20 with 85 elements and force 109
+000:50 1711 elements in red headquarter
+000:50 1818 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 173 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+001:00 red lion 2 born
+Its loyalty is 1626
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 85 elements and force 109
+001:10 red iceman 1 marched to city 2 with 156 elements and force 38
+001:10 blue lion 1 marched to city 19 with 85 elements and force 109
+001:10 blue dragon 2 marched to city 20 with 185 elements and force 18
+001:50 1626 elements in red headquarter
+001:50 1633 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 156 elements
+001:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 red wolf 3 marched to city 1 with 131 elements and force 126
+002:10 red lion 2 marched to city 2 with 85 elements and force 109
+002:10 red iceman 1 marched to city 3 with 141 elements and force 38
+002:10 blue lion 1 marched to city 18 with 85 elements and force 109
+002:10 blue dragon 2 marched to city 19 with 185 elements and force 18
+002:10 blue ninja 3 marched to city 20 with 73 elements and force 67
+002:50 1495 elements in red headquarter
+002:50 1560 elements in blue headquarter
+002:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+002:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+002:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 141 elements
+002:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+002:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 73 elements and force 67
+003:10 red wolf 3 marched to city 2 with 131 elements and force 126
+003:10 red lion 2 marched to city 3 with 85 elements and force 109
+003:10 red iceman 1 marched to city 4 with 127 elements and force 38
+003:10 blue lion 1 marched to city 17 with 85 elements and force 109
+003:10 blue dragon 2 marched to city 18 with 185 elements and force 18
+003:10 blue ninja 3 marched to city 19 with 73 elements and force 67
+003:10 blue iceman 4 marched to city 20 with 173 elements and force 38
+003:50 1422 elements in red headquarter
+003:50 1368 elements in blue headquarter
+003:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+003:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+003:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+003:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 127 elements
+003:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+003:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+003:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+003:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 173 elements
+004:00 red dragon 5 born
+004:00 blue wolf 5 born
+004:10 red dragon 5 marched to city 1 with 185 elements and force 18
+004:10 red ninja 4 marched to city 2 with 73 elements and force 67
+004:10 red wolf 3 marched to city 3 with 131 elements and force 126
+004:10 red lion 2 marched to city 4 with 85 elements and force 109
+004:10 red iceman 1 marched to city 5 with 115 elements and force 38
+004:10 blue lion 1 marched to city 16 with 85 elements and force 109
+004:10 blue dragon 2 marched to city 17 with 185 elements and force 18
+004:10 blue ninja 3 marched to city 18 with 73 elements and force 67
+004:10 blue iceman 4 marched to city 19 with 156 elements and force 38
+004:10 blue wolf 5 marched to city 20 with 131 elements and force 126
+004:50 1237 elements in red headquarter
+004:50 1237 elements in blue headquarter
+004:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+004:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+004:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+004:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+004:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 115 elements
+004:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+004:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+004:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+004:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 156 elements
+004:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+005:00 red iceman 6 born
+005:00 blue lion 6 born
+Its loyalty is 1152
+005:10 red iceman 6 marched to city 1 with 173 elements and force 38
+005:10 red dragon 5 marched to city 2 with 185 elements and force 18
+005:10 red ninja 4 marched to city 3 with 73 elements and force 67
+005:10 red wolf 3 marched to city 4 with 131 elements and force 126
+005:10 red lion 2 marched to city 5 with 85 elements and force 109
+005:10 red iceman 1 marched to city 6 with 104 elements and force 38
+005:10 blue lion 1 marched to city 15 with 85 elements and force 109
+005:10 blue dragon 2 marched to city 16 with 185 elements and force 18
+005:10 blue ninja 3 marched to city 17 with 73 elements and force 67
+005:10 blue iceman 4 marched to city 18 with 141 elements and force 38
+005:10 blue wolf 5 marched to city 19 with 131 elements and force 126
+005:10 blue lion 6 marched to city 20 with 85 elements and force 109
+005:50 1045 elements in red headquarter
+005:50 1152 elements in blue headquarter
+005:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 173 elements
+005:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+005:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+005:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+005:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+005:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 104 elements
+005:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+005:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+005:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+005:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 141 elements
+005:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+005:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+006:00 red lion 7 born
+Its loyalty is 960
+006:00 blue dragon 7 born
+006:10 red lion 7 marched to city 1 with 85 elements and force 109
+006:10 red iceman 6 marched to city 2 with 156 elements and force 38
+006:10 red dragon 5 marched to city 3 with 185 elements and force 18
+006:10 red ninja 4 marched to city 4 with 73 elements and force 67
+006:10 red wolf 3 marched to city 5 with 131 elements and force 126
+006:10 red lion 2 marched to city 6 with 85 elements and force 109
+006:10 red iceman 1 marched to city 7 with 94 elements and force 38
+006:10 blue lion 1 marched to city 14 with 85 elements and force 109
+006:10 blue dragon 2 marched to city 15 with 185 elements and force 18
+006:10 blue ninja 3 marched to city 16 with 73 elements and force 67
+006:10 blue iceman 4 marched to city 17 with 127 elements and force 38
+006:10 blue wolf 5 marched to city 18 with 131 elements and force 126
+006:10 blue lion 6 marched to city 19 with 85 elements and force 109
+006:10 blue dragon 7 marched to city 20 with 185 elements and force 18
+006:50 960 elements in red headquarter
+006:50 967 elements in blue headquarter
+006:55 red lion 7 has 0 sword 1 bomb 0 arrow and 85 elements
+006:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 156 elements
+006:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+006:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+006:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+006:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+006:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 94 elements
+006:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+006:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+006:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+006:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 127 elements
+006:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+006:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+006:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+007:00 red wolf 8 born
+007:00 blue ninja 8 born
+007:10 red wolf 8 marched to city 1 with 131 elements and force 126
+007:10 red lion 7 marched to city 2 with 85 elements and force 109
+007:10 red iceman 6 marched to city 3 with 141 elements and force 38
+007:10 red dragon 5 marched to city 4 with 185 elements and force 18
+007:10 red ninja 4 marched to city 5 with 73 elements and force 67
+007:10 red wolf 3 marched to city 6 with 131 elements and force 126
+007:10 red lion 2 marched to city 7 with 85 elements and force 109
+007:10 red iceman 1 marched to city 8 with 85 elements and force 38
+007:10 blue lion 1 marched to city 13 with 85 elements and force 109
+007:10 blue dragon 2 marched to city 14 with 185 elements and force 18
+007:10 blue ninja 3 marched to city 15 with 73 elements and force 67
+007:10 blue iceman 4 marched to city 16 with 115 elements and force 38
+007:10 blue wolf 5 marched to city 17 with 131 elements and force 126
+007:10 blue lion 6 marched to city 18 with 85 elements and force 109
+007:10 blue dragon 7 marched to city 19 with 185 elements and force 18
+007:10 blue ninja 8 marched to city 20 with 73 elements and force 67
+007:50 829 elements in red headquarter
+007:50 894 elements in blue headquarter
+007:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+007:55 red lion 7 has 0 sword 1 bomb 0 arrow and 85 elements
+007:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 141 elements
+007:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+007:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+007:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+007:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+007:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 85 elements
+007:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+007:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+007:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+007:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 115 elements
+007:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+007:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+007:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+007:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 73 elements
+008:00 red ninja 9 born
+008:00 blue iceman 9 born
+008:10 red ninja 9 marched to city 1 with 73 elements and force 67
+008:10 red wolf 8 marched to city 2 with 131 elements and force 126
+008:10 red lion 7 marched to city 3 with 85 elements and force 109
+008:10 red iceman 6 marched to city 4 with 127 elements and force 38
+008:10 red dragon 5 marched to city 5 with 185 elements and force 18
+008:10 red ninja 4 marched to city 6 with 73 elements and force 67
+008:10 red wolf 3 marched to city 7 with 131 elements and force 126
+008:10 red lion 2 marched to city 8 with 85 elements and force 109
+008:10 red iceman 1 marched to city 9 with 77 elements and force 38
+008:10 blue lion 1 marched to city 12 with 85 elements and force 109
+008:10 blue dragon 2 marched to city 13 with 185 elements and force 18
+008:10 blue ninja 3 marched to city 14 with 73 elements and force 67
+008:10 blue iceman 4 marched to city 15 with 104 elements and force 38
+008:10 blue wolf 5 marched to city 16 with 131 elements and force 126
+008:10 blue lion 6 marched to city 17 with 85 elements and force 109
+008:10 blue dragon 7 marched to city 18 with 185 elements and force 18
+008:10 blue ninja 8 marched to city 19 with 73 elements and force 67
+008:10 blue iceman 9 marched to city 20 with 173 elements and force 38
+008:50 756 elements in red headquarter
+008:50 702 elements in blue headquarter
+008:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 73 elements
+008:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+008:55 red lion 7 has 0 sword 1 bomb 0 arrow and 85 elements
+008:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 127 elements
+008:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+008:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+008:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+008:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+008:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 77 elements
+008:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+008:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+008:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+008:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 104 elements
+008:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+008:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+008:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+008:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 73 elements
+008:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 173 elements
+009:00 red dragon 10 born
+009:00 blue wolf 10 born
+009:10 red dragon 10 marched to city 1 with 185 elements and force 18
+009:10 red ninja 9 marched to city 2 with 73 elements and force 67
+009:10 red wolf 8 marched to city 3 with 131 elements and force 126
+009:10 red lion 7 marched to city 4 with 85 elements and force 109
+009:10 red iceman 6 marched to city 5 with 115 elements and force 38
+009:10 red dragon 5 marched to city 6 with 185 elements and force 18
+009:10 red ninja 4 marched to city 7 with 73 elements and force 67
+009:10 red wolf 3 marched to city 8 with 131 elements and force 126
+009:10 red lion 2 marched to city 9 with 85 elements and force 109
+009:10 red iceman 1 marched to city 10 with 70 elements and force 38
+009:10 blue lion 1 marched to city 11 with 85 elements and force 109
+009:10 blue dragon 2 marched to city 12 with 185 elements and force 18
+009:10 blue ninja 3 marched to city 13 with 73 elements and force 67
+009:10 blue iceman 4 marched to city 14 with 94 elements and force 38
+009:10 blue wolf 5 marched to city 15 with 131 elements and force 126
+009:10 blue lion 6 marched to city 16 with 85 elements and force 109
+009:10 blue dragon 7 marched to city 17 with 185 elements and force 18
+009:10 blue ninja 8 marched to city 18 with 73 elements and force 67
+009:10 blue iceman 9 marched to city 19 with 156 elements and force 38
+009:10 blue wolf 10 marched to city 20 with 131 elements and force 126
+009:50 571 elements in red headquarter
+009:50 571 elements in blue headquarter
+009:55 red dragon 10 has 0 sword 1 bomb 0 arrow and 185 elements
+009:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 73 elements
+009:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+009:55 red lion 7 has 0 sword 1 bomb 0 arrow and 85 elements
+009:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 115 elements
+009:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+009:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+009:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+009:55 red lion 2 has 0 sword 0 bomb 1 arrow and 85 elements
+009:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 70 elements
+009:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 85 elements
+009:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 185 elements
+009:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+009:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 94 elements
+009:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+009:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+009:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+009:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 73 elements
+009:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 156 elements
+009:55 blue wolf 10 has 0 sword 0 bomb 0 arrow and 131 elements
+010:00 red iceman 11 born
+010:00 blue lion 11 born
+Its loyalty is 486
+010:10 red iceman 11 marched to city 1 with 173 elements and force 38
+010:10 red dragon 10 marched to city 2 with 185 elements and force 18
+010:10 red ninja 9 marched to city 3 with 73 elements and force 67
+010:10 red wolf 8 marched to city 4 with 131 elements and force 126
+010:10 red lion 7 marched to city 5 with 85 elements and force 109
+010:10 red iceman 6 marched to city 6 with 104 elements and force 38
+010:10 red dragon 5 marched to city 7 with 185 elements and force 18
+010:10 red ninja 4 marched to city 8 with 73 elements and force 67
+010:10 red wolf 3 marched to city 9 with 131 elements and force 126
+010:10 red lion 2 marched to city 10 with 85 elements and force 109
+010:10 blue lion 1 marched to city 10 with 85 elements and force 109
+010:10 red iceman 1 marched to city 11 with 63 elements and force 38
+010:10 blue dragon 2 marched to city 11 with 185 elements and force 18
+010:10 blue ninja 3 marched to city 12 with 73 elements and force 67
+010:10 blue iceman 4 marched to city 13 with 85 elements and force 38
+010:10 blue wolf 5 marched to city 14 with 131 elements and force 126
+010:10 blue lion 6 marched to city 15 with 85 elements and force 109
+010:10 blue dragon 7 marched to city 16 with 185 elements and force 18
+010:10 blue ninja 8 marched to city 17 with 73 elements and force 67
+010:10 blue iceman 9 marched to city 18 with 141 elements and force 38
+010:10 blue wolf 10 marched to city 19 with 131 elements and force 126
+010:10 blue lion 11 marched to city 20 with 85 elements and force 109
+010:40 red lion 2 killed blue lion 1 in city 10 remaining 42 elements
+010:40 both red iceman 1 and blue dragon 2 were alive in city 11
+010:40 blue dragon 2 yelled in city 11
+010:50 379 elements in red headquarter
+010:50 486 elements in blue headquarter
+010:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 173 elements
+010:55 red dragon 10 has 0 sword 1 bomb 0 arrow and 185 elements
+010:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 73 elements
+010:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+010:55 red lion 7 has 0 sword 1 bomb 0 arrow and 85 elements
+010:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 104 elements
+010:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+010:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+010:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+010:55 red lion 2 has 0 sword 0 bomb 0 arrow and 42 elements
+010:55 red iceman 1 has 0 sword 0 bomb 0 arrow and 46 elements
+010:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 170 elements
+010:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 73 elements
+010:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 85 elements
+010:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+010:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+010:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+010:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 73 elements
+010:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 141 elements
+010:55 blue wolf 10 has 0 sword 0 bomb 0 arrow and 131 elements
+010:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+011:00 red lion 12 born
+Its loyalty is 294
+011:00 blue dragon 12 born
+011:10 red lion 12 marched to city 1 with 85 elements and force 109
+011:10 red iceman 11 marched to city 2 with 156 elements and force 38
+011:10 red dragon 10 marched to city 3 with 185 elements and force 18
+011:10 red ninja 9 marched to city 4 with 73 elements and force 67
+011:10 red wolf 8 marched to city 5 with 131 elements and force 126
+011:10 red lion 7 marched to city 6 with 85 elements and force 109
+011:10 red iceman 6 marched to city 7 with 94 elements and force 38
+011:10 red dragon 5 marched to city 8 with 185 elements and force 18
+011:10 red ninja 4 marched to city 9 with 73 elements and force 67
+011:10 red wolf 3 marched to city 10 with 131 elements and force 126
+011:10 blue dragon 2 marched to city 10 with 170 elements and force 18
+011:10 red lion 2 marched to city 11 with 42 elements and force 109
+011:10 blue ninja 3 marched to city 11 with 73 elements and force 67
+011:10 red iceman 1 marched to city 12 with 42 elements and force 38
+011:10 blue iceman 4 marched to city 12 with 77 elements and force 38
+011:10 blue wolf 5 marched to city 13 with 131 elements and force 126
+011:10 blue lion 6 marched to city 14 with 85 elements and force 109
+011:10 blue dragon 7 marched to city 15 with 185 elements and force 18
+011:10 blue ninja 8 marched to city 16 with 73 elements and force 67
+011:10 blue iceman 9 marched to city 17 with 127 elements and force 38
+011:10 blue wolf 10 marched to city 18 with 131 elements and force 126
+011:10 blue lion 11 marched to city 19 with 85 elements and force 109
+011:10 blue dragon 12 marched to city 20 with 185 elements and force 18
+011:40 both red wolf 3 and blue dragon 2 were alive in city 10
+011:40 blue dragon 2 yelled in city 10
+011:40 blue ninja 3 killed red lion 2 in city 11 remaining 73 elements
+011:40 both red iceman 1 and blue iceman 4 were alive in city 12
+011:50 294 elements in red headquarter
+011:50 301 elements in blue headquarter
+011:55 red lion 12 has 1 sword 0 bomb 0 arrow and 85 elements
+011:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 156 elements
+011:55 red dragon 10 has 0 sword 1 bomb 0 arrow and 185 elements
+011:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 73 elements
+011:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+011:55 red lion 7 has 0 sword 1 bomb 0 arrow and 85 elements
+011:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 94 elements
+011:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 185 elements
+011:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 73 elements
+011:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+011:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 170 elements
+011:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 73 elements
+011:55 red iceman 1 has 0 sword 0 bomb 0 arrow and 27 elements
+011:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 70 elements
+011:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+011:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+011:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+011:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 73 elements
+011:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 127 elements
+011:55 blue wolf 10 has 0 sword 0 bomb 0 arrow and 131 elements
+011:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+011:55 blue dragon 12 has 1 sword 0 bomb 0 arrow and 185 elements
+012:00 red wolf 13 born
+012:00 blue ninja 13 born
+012:10 red wolf 13 marched to city 1 with 131 elements and force 126
+012:10 red lion 12 marched to city 2 with 85 elements and force 109
+012:10 red iceman 11 marched to city 3 with 141 elements and force 38
+012:10 red dragon 10 marched to city 4 with 185 elements and force 18
+012:10 red ninja 9 marched to city 5 with 73 elements and force 67
+012:10 red wolf 8 marched to city 6 with 131 elements and force 126
+012:10 red lion 7 marched to city 7 with 85 elements and force 109
+012:10 red iceman 6 marched to city 8 with 85 elements and force 38
+012:10 red dragon 5 marched to city 9 with 185 elements and force 18
+012:10 blue dragon 2 marched to city 9 with 170 elements and force 18
+012:10 red ninja 4 marched to city 10 with 73 elements and force 67
+012:10 blue ninja 3 marched to city 10 with 73 elements and force 67
+012:10 red wolf 3 marched to city 11 with 131 elements and force 126
+012:10 blue iceman 4 marched to city 11 with 63 elements and force 38
+012:10 blue wolf 5 marched to city 12 with 131 elements and force 126
+012:10 red iceman 1 marched to city 13 with 25 elements and force 38
+012:10 blue lion 6 marched to city 13 with 85 elements and force 109
+012:10 blue dragon 7 marched to city 14 with 185 elements and force 18
+012:10 blue ninja 8 marched to city 15 with 73 elements and force 67
+012:10 blue iceman 9 marched to city 16 with 115 elements and force 38
+012:10 blue wolf 10 marched to city 17 with 131 elements and force 126
+012:10 blue lion 11 marched to city 18 with 85 elements and force 109
+012:10 blue dragon 12 marched to city 19 with 185 elements and force 18
+012:10 blue ninja 13 marched to city 20 with 73 elements and force 67
+012:40 both red dragon 5 and blue dragon 2 were alive in city 9
+012:40 red dragon 5 yelled in city 9
+012:40 blue dragon 2 yelled in city 9
+012:40 blue ninja 3 killed red ninja 4 in city 10 remaining 7 elements
+012:40 both red wolf 3 and blue iceman 4 were alive in city 11
+012:40 blue lion 6 killed red iceman 1 in city 13 remaining 85 elements
+012:50 163 elements in red headquarter
+012:50 228 elements in blue headquarter
+012:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+012:55 red lion 12 has 1 sword 0 bomb 0 arrow and 85 elements
+012:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 141 elements
+012:55 red dragon 10 has 0 sword 1 bomb 0 arrow and 185 elements
+012:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 73 elements
+012:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+012:55 red lion 7 has 0 sword 1 bomb 0 arrow and 85 elements
+012:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 85 elements
+012:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+012:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 160 elements
+012:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 7 elements
+012:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 131 elements
+012:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 63 elements
+012:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+012:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 85 elements
+012:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+012:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 73 elements
+012:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 115 elements
+012:55 blue wolf 10 has 0 sword 0 bomb 0 arrow and 131 elements
+012:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+012:55 blue dragon 12 has 1 sword 0 bomb 0 arrow and 185 elements
+012:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+013:00 red ninja 14 born
+013:00 blue iceman 14 born
+013:10 red ninja 14 marched to city 1 with 73 elements and force 67
+013:10 red wolf 13 marched to city 2 with 131 elements and force 126
+013:10 red lion 12 marched to city 3 with 85 elements and force 109
+013:10 red iceman 11 marched to city 4 with 127 elements and force 38
+013:10 red dragon 10 marched to city 5 with 185 elements and force 18
+013:10 red ninja 9 marched to city 6 with 73 elements and force 67
+013:10 red wolf 8 marched to city 7 with 131 elements and force 126
+013:10 red lion 7 marched to city 8 with 85 elements and force 109
+013:10 blue dragon 2 marched to city 8 with 160 elements and force 18
+013:10 red iceman 6 marched to city 9 with 77 elements and force 38
+013:10 blue ninja 3 marched to city 9 with 7 elements and force 67
+013:10 red dragon 5 marched to city 10 with 185 elements and force 18
+013:10 blue iceman 4 marched to city 10 with 57 elements and force 38
+013:10 blue wolf 5 marched to city 11 with 131 elements and force 126
+013:10 red wolf 3 marched to city 12 with 131 elements and force 126
+013:10 blue lion 6 marched to city 12 with 85 elements and force 109
+013:10 blue dragon 7 marched to city 13 with 185 elements and force 18
+013:10 blue ninja 8 marched to city 14 with 73 elements and force 67
+013:10 blue iceman 9 marched to city 15 with 104 elements and force 38
+013:10 blue wolf 10 marched to city 16 with 131 elements and force 126
+013:10 blue lion 11 marched to city 17 with 85 elements and force 109
+013:10 blue dragon 12 marched to city 18 with 185 elements and force 18
+013:10 blue ninja 13 marched to city 19 with 73 elements and force 67
+013:10 blue iceman 14 marched to city 20 with 173 elements and force 38
+013:35 red wolf 3 took 1 sword from blue lion 6 in city 12
+013:40 both red lion 7 and blue dragon 2 were alive in city 8
+013:40 blue dragon 2 yelled in city 8
+013:40 red iceman 6 killed blue ninja 3 in city 9 remaining 77 elements
+013:40 both red dragon 5 and blue iceman 4 were alive in city 10
+013:40 red dragon 5 yelled in city 10
+013:40 red wolf 3 killed blue lion 6 in city 12 remaining 131 elements
+013:50 90 elements in red headquarter
+013:50 36 elements in blue headquarter
+013:55 red ninja 14 has 1 sword 0 bomb 1 arrow and 73 elements
+013:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+013:55 red lion 12 has 1 sword 0 bomb 0 arrow and 85 elements
+013:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 127 elements
+013:55 red dragon 10 has 0 sword 1 bomb 0 arrow and 185 elements
+013:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 73 elements
+013:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+013:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+013:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 117 elements
+013:55 red iceman 6 has 2 sword 0 bomb 0 arrow and 77 elements
+013:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+013:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 57 elements
+013:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 131 elements
+013:55 red wolf 3 has 1 sword 0 bomb 0 arrow and 131 elements
+013:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+013:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 73 elements
+013:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 104 elements
+013:55 blue wolf 10 has 0 sword 0 bomb 0 arrow and 131 elements
+013:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+013:55 blue dragon 12 has 1 sword 0 bomb 0 arrow and 185 elements
+013:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+013:55 blue iceman 14 has 0 sword 0 bomb 1 arrow and 173 elements
+014:10 red ninja 14 marched to city 2 with 73 elements and force 67
+014:10 red wolf 13 marched to city 3 with 131 elements and force 126
+014:10 red lion 12 marched to city 4 with 85 elements and force 109
+014:10 red iceman 11 marched to city 5 with 115 elements and force 38
+014:10 red dragon 10 marched to city 6 with 185 elements and force 18
+014:10 red ninja 9 marched to city 7 with 73 elements and force 67
+014:10 blue dragon 2 marched to city 7 with 117 elements and force 18
+014:10 red wolf 8 marched to city 8 with 131 elements and force 126
+014:10 red lion 7 marched to city 9 with 64 elements and force 109
+014:10 blue iceman 4 marched to city 9 with 52 elements and force 38
+014:10 red iceman 6 marched to city 10 with 70 elements and force 38
+014:10 blue wolf 5 marched to city 10 with 131 elements and force 126
+014:10 red dragon 5 marched to city 11 with 185 elements and force 18
+014:10 blue dragon 7 marched to city 12 with 185 elements and force 18
+014:10 red wolf 3 marched to city 13 with 131 elements and force 126
+014:10 blue ninja 8 marched to city 13 with 73 elements and force 67
+014:10 blue iceman 9 marched to city 14 with 94 elements and force 38
+014:10 blue wolf 10 marched to city 15 with 131 elements and force 126
+014:10 blue lion 11 marched to city 16 with 85 elements and force 109
+014:10 blue dragon 12 marched to city 17 with 185 elements and force 18
+014:10 blue ninja 13 marched to city 18 with 73 elements and force 67
+014:10 blue iceman 14 marched to city 19 with 156 elements and force 38
+014:35 blue wolf 5 took 2 sword from red iceman 6 in city 10
+014:35 red wolf 3 took 1 sword from blue ninja 8 in city 13
+014:40 red ninja 9 killed blue dragon 2 in city 7 remaining 73 elements
+014:40 both red lion 7 and blue iceman 4 were alive in city 9
+014:40 blue wolf 5 killed red iceman 6 in city 10 remaining 131 elements
+014:40 red wolf 3 killed blue ninja 8 in city 13 remaining 91 elements
+014:50 90 elements in red headquarter
+014:50 36 elements in blue headquarter
+014:55 red ninja 14 has 1 sword 0 bomb 1 arrow and 73 elements
+014:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+014:55 red lion 12 has 1 sword 0 bomb 0 arrow and 85 elements
+014:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 115 elements
+014:55 red dragon 10 has 0 sword 1 bomb 0 arrow and 185 elements
+014:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+014:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 131 elements
+014:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+014:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 52 elements
+014:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 131 elements
+014:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+014:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+014:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 91 elements
+014:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 94 elements
+014:55 blue wolf 10 has 0 sword 0 bomb 0 arrow and 131 elements
+014:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+014:55 blue dragon 12 has 1 sword 0 bomb 0 arrow and 185 elements
+014:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+014:55 blue iceman 14 has 0 sword 0 bomb 1 arrow and 156 elements
+015:10 red ninja 14 marched to city 3 with 73 elements and force 67
+015:10 red wolf 13 marched to city 4 with 131 elements and force 126
+015:10 red lion 12 marched to city 5 with 85 elements and force 109
+015:10 red iceman 11 marched to city 6 with 104 elements and force 38
+015:10 red dragon 10 marched to city 7 with 185 elements and force 18
+015:10 red ninja 9 marched to city 8 with 73 elements and force 67
+015:10 blue iceman 4 marched to city 8 with 47 elements and force 38
+015:10 red wolf 8 marched to city 9 with 131 elements and force 126
+015:10 blue wolf 5 marched to city 9 with 131 elements and force 126
+015:10 red lion 7 marched to city 10 with 64 elements and force 109
+015:10 blue dragon 7 marched to city 11 with 185 elements and force 18
+015:10 red dragon 5 marched to city 12 with 185 elements and force 18
+015:10 blue iceman 9 marched to city 13 with 85 elements and force 38
+015:10 red wolf 3 marched to city 14 with 91 elements and force 126
+015:10 blue wolf 10 marched to city 14 with 131 elements and force 126
+015:10 blue lion 11 marched to city 15 with 85 elements and force 109
+015:10 blue dragon 12 marched to city 16 with 185 elements and force 18
+015:10 blue ninja 13 marched to city 17 with 73 elements and force 67
+015:10 blue iceman 14 marched to city 18 with 141 elements and force 38
+015:40 red ninja 9 killed blue iceman 4 in city 8 remaining 73 elements
+015:40 blue wolf 5 killed red wolf 8 in city 9 remaining 131 elements
+015:40 red wolf 3 killed blue wolf 10 in city 14 remaining 91 elements
+015:50 90 elements in red headquarter
+015:50 36 elements in blue headquarter
+015:55 red ninja 14 has 1 sword 0 bomb 1 arrow and 73 elements
+015:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+015:55 red lion 12 has 1 sword 0 bomb 0 arrow and 85 elements
+015:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 104 elements
+015:55 red dragon 10 has 0 sword 1 bomb 0 arrow and 185 elements
+015:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+015:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 131 elements
+015:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+015:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+015:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+015:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 85 elements
+015:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 91 elements
+015:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+015:55 blue dragon 12 has 1 sword 0 bomb 0 arrow and 185 elements
+015:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+015:55 blue iceman 14 has 0 sword 0 bomb 1 arrow and 141 elements
+016:05 red lion 12 ran away
+016:10 red ninja 14 marched to city 4 with 73 elements and force 67
+016:10 red wolf 13 marched to city 5 with 131 elements and force 126
+016:10 red iceman 11 marched to city 7 with 94 elements and force 38
+016:10 red dragon 10 marched to city 8 with 185 elements and force 18
+016:10 blue wolf 5 marched to city 8 with 131 elements and force 126
+016:10 red ninja 9 marched to city 9 with 73 elements and force 67
+016:10 blue dragon 7 marched to city 10 with 185 elements and force 18
+016:10 red lion 7 marched to city 11 with 64 elements and force 109
+016:10 blue iceman 9 marched to city 12 with 77 elements and force 38
+016:10 red dragon 5 marched to city 13 with 185 elements and force 18
+016:10 blue lion 11 marched to city 14 with 85 elements and force 109
+016:10 red wolf 3 marched to city 15 with 91 elements and force 126
+016:10 blue dragon 12 marched to city 15 with 185 elements and force 18
+016:10 blue ninja 13 marched to city 16 with 73 elements and force 67
+016:10 blue iceman 14 marched to city 17 with 127 elements and force 38
+016:35 blue wolf 5 took 1 bomb from red dragon 10 in city 8
+016:35 red wolf 3 took 1 sword from blue dragon 12 in city 15
+016:40 blue wolf 5 killed red dragon 10 in city 8 remaining 106 elements
+016:40 red wolf 3 killed blue dragon 12 in city 15 remaining 91 elements
+016:50 90 elements in red headquarter
+016:50 36 elements in blue headquarter
+016:55 red ninja 14 has 1 sword 0 bomb 1 arrow and 73 elements
+016:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+016:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 94 elements
+016:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 106 elements
+016:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+016:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+016:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+016:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 77 elements
+016:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+016:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+016:55 red wolf 3 has 3 sword 0 bomb 0 arrow and 91 elements
+016:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+016:55 blue iceman 14 has 0 sword 0 bomb 1 arrow and 127 elements
+017:10 red ninja 14 marched to city 5 with 73 elements and force 67
+017:10 red wolf 13 marched to city 6 with 131 elements and force 126
+017:10 blue wolf 5 marched to city 7 with 106 elements and force 126
+017:10 red iceman 11 marched to city 8 with 85 elements and force 38
+017:10 blue dragon 7 marched to city 9 with 185 elements and force 18
+017:10 red ninja 9 marched to city 10 with 73 elements and force 67
+017:10 blue iceman 9 marched to city 11 with 70 elements and force 38
+017:10 red lion 7 marched to city 12 with 64 elements and force 109
+017:10 blue lion 11 marched to city 13 with 85 elements and force 109
+017:10 red dragon 5 marched to city 14 with 185 elements and force 18
+017:10 blue ninja 13 marched to city 15 with 73 elements and force 67
+017:10 red wolf 3 marched to city 16 with 91 elements and force 126
+017:10 blue iceman 14 marched to city 16 with 115 elements and force 38
+017:35 red wolf 3 took 1 arrow from blue iceman 14 in city 16
+017:40 red wolf 3 killed blue iceman 14 in city 16 remaining 91 elements
+017:50 90 elements in red headquarter
+017:50 36 elements in blue headquarter
+017:55 red ninja 14 has 1 sword 0 bomb 1 arrow and 73 elements
+017:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+017:55 blue wolf 5 has 2 sword 0 bomb 0 arrow and 106 elements
+017:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 85 elements
+017:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+017:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+017:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 70 elements
+017:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+017:55 blue lion 11 has 0 sword 0 bomb 1 arrow and 85 elements
+017:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+017:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+017:55 red wolf 3 has 3 sword 0 bomb 1 arrow and 91 elements
+018:05 blue lion 11 ran away
+018:10 red ninja 14 marched to city 6 with 73 elements and force 67
+018:10 blue wolf 5 marched to city 6 with 106 elements and force 126
+018:10 red wolf 13 marched to city 7 with 131 elements and force 126
+018:10 blue dragon 7 marched to city 8 with 185 elements and force 18
+018:10 red iceman 11 marched to city 9 with 77 elements and force 38
+018:10 blue iceman 9 marched to city 10 with 63 elements and force 38
+018:10 red ninja 9 marched to city 11 with 73 elements and force 67
+018:10 red lion 7 marched to city 13 with 64 elements and force 109
+018:10 blue ninja 13 marched to city 14 with 73 elements and force 67
+018:10 red dragon 5 marched to city 15 with 185 elements and force 18
+018:10 red wolf 3 marched to city 17 with 91 elements and force 126
+018:35 blue wolf 5 took 1 sword from red ninja 14 in city 6
+018:40 blue wolf 5 killed red ninja 14 in city 6 remaining 66 elements
+018:50 90 elements in red headquarter
+018:50 36 elements in blue headquarter
+018:55 blue wolf 5 has 3 sword 0 bomb 0 arrow and 66 elements
+018:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+018:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+018:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 77 elements
+018:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 63 elements
+018:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+018:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+018:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+018:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+018:55 red wolf 3 has 3 sword 0 bomb 1 arrow and 91 elements
+019:10 blue wolf 5 marched to city 5 with 66 elements and force 126
+019:10 blue dragon 7 marched to city 7 with 185 elements and force 18
+019:10 red wolf 13 marched to city 8 with 131 elements and force 126
+019:10 blue iceman 9 marched to city 9 with 57 elements and force 38
+019:10 red iceman 11 marched to city 10 with 70 elements and force 38
+019:10 red ninja 9 marched to city 12 with 73 elements and force 67
+019:10 blue ninja 13 marched to city 13 with 73 elements and force 67
+019:10 red lion 7 marched to city 14 with 64 elements and force 109
+019:10 red dragon 5 marched to city 16 with 185 elements and force 18
+019:10 red wolf 3 marched to city 18 with 91 elements and force 126
+019:50 90 elements in red headquarter
+019:50 36 elements in blue headquarter
+019:55 blue wolf 5 has 3 sword 0 bomb 0 arrow and 66 elements
+019:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+019:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+019:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 57 elements
+019:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 70 elements
+019:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+019:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+019:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+019:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+019:55 red wolf 3 has 3 sword 0 bomb 1 arrow and 91 elements
+020:10 blue wolf 5 marched to city 4 with 66 elements and force 126
+020:10 blue dragon 7 marched to city 6 with 185 elements and force 18
+020:10 blue iceman 9 marched to city 8 with 52 elements and force 38
+020:10 red wolf 13 marched to city 9 with 131 elements and force 126
+020:10 red iceman 11 marched to city 11 with 63 elements and force 38
+020:10 blue ninja 13 marched to city 12 with 73 elements and force 67
+020:10 red ninja 9 marched to city 13 with 73 elements and force 67
+020:10 red lion 7 marched to city 15 with 64 elements and force 109
+020:10 red dragon 5 marched to city 17 with 185 elements and force 18
+020:10 red wolf 3 marched to city 19 with 91 elements and force 126
+020:50 90 elements in red headquarter
+020:50 36 elements in blue headquarter
+020:55 blue wolf 5 has 3 sword 0 bomb 0 arrow and 66 elements
+020:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+020:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 52 elements
+020:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+020:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 63 elements
+020:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+020:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+020:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+020:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+020:55 red wolf 3 has 3 sword 0 bomb 1 arrow and 91 elements
+021:10 blue wolf 5 marched to city 3 with 66 elements and force 126
+021:10 blue dragon 7 marched to city 5 with 185 elements and force 18
+021:10 blue iceman 9 marched to city 7 with 47 elements and force 38
+021:10 red wolf 13 marched to city 10 with 131 elements and force 126
+021:10 blue ninja 13 marched to city 11 with 73 elements and force 67
+021:10 red iceman 11 marched to city 12 with 57 elements and force 38
+021:10 red ninja 9 marched to city 14 with 73 elements and force 67
+021:10 red lion 7 marched to city 16 with 64 elements and force 109
+021:10 red dragon 5 marched to city 18 with 185 elements and force 18
+021:10 red wolf 3 marched to city 20 with 91 elements and force 126
+021:50 90 elements in red headquarter
+021:50 36 elements in blue headquarter
+021:55 blue wolf 5 has 3 sword 0 bomb 0 arrow and 66 elements
+021:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 185 elements
+021:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 47 elements
+021:55 red wolf 13 has 0 sword 0 bomb 0 arrow and 131 elements
+021:55 blue ninja 13 has 0 sword 1 bomb 1 arrow and 73 elements
+021:55 red iceman 11 has 0 sword 0 bomb 1 arrow and 57 elements
+021:55 red ninja 9 has 1 sword 0 bomb 0 arrow and 73 elements
+021:55 red lion 7 has 0 sword 0 bomb 0 arrow and 64 elements
+021:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 185 elements
+021:55 red wolf 3 has 3 sword 0 bomb 1 arrow and 91 elements
+022:05 red lion 7 ran away
+022:10 blue wolf 5 marched to city 2 with 66 elements and force 126
+022:10 blue dragon 7 marched to city 4 with 185 elements and force 18
+022:10 blue iceman 9 marched to city 6 with 43 elements and force 38
+022:10 blue ninja 13 marched to city 10 with 73 elements and force 67
+022:10 red wolf 13 marched to city 11 with 131 elements and force 126
+022:10 red iceman 11 marched to city 13 with 52 elements and force 38
+022:10 red ninja 9 marched to city 15 with 73 elements and force 67
+022:10 red dragon 5 marched to city 19 with 185 elements and force 18
+022:10 red wolf 3 reached blue headquarter with 91 elements and force 126
+022:10 blue headquarter was taken
+Case 4:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 1071
+000:10 red iceman 1 marched to city 1 with 94 elements and force 26
+000:10 blue lion 1 marched to city 15 with 29 elements and force 173
+000:50 996 elements in red headquarter
+000:50 1071 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 94 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 29 elements
+001:00 red lion 2 born
+Its loyalty is 967
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 29 elements and force 173
+001:10 red iceman 1 marched to city 2 with 85 elements and force 26
+001:10 blue lion 1 marched to city 14 with 29 elements and force 173
+001:10 blue dragon 2 marched to city 15 with 161 elements and force 68
+001:50 967 elements in red headquarter
+001:50 910 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 29 elements
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 85 elements
+001:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 29 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 161 elements
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 red wolf 3 marched to city 1 with 188 elements and force 144
+002:10 red lion 2 marched to city 2 with 29 elements and force 173
+002:10 red iceman 1 marched to city 3 with 77 elements and force 26
+002:10 blue lion 1 marched to city 13 with 29 elements and force 173
+002:10 blue dragon 2 marched to city 14 with 161 elements and force 68
+002:10 blue ninja 3 marched to city 15 with 112 elements and force 151
+002:50 779 elements in red headquarter
+002:50 798 elements in blue headquarter
+002:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 188 elements
+002:55 red lion 2 has 0 sword 0 bomb 1 arrow and 29 elements
+002:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 77 elements
+002:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 29 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 161 elements
+002:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 112 elements
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 112 elements and force 151
+003:10 red wolf 3 marched to city 2 with 188 elements and force 144
+003:10 red lion 2 marched to city 3 with 29 elements and force 173
+003:10 red iceman 1 marched to city 4 with 70 elements and force 26
+003:10 blue lion 1 marched to city 12 with 29 elements and force 173
+003:10 blue dragon 2 marched to city 13 with 161 elements and force 68
+003:10 blue ninja 3 marched to city 14 with 112 elements and force 151
+003:10 blue iceman 4 marched to city 15 with 94 elements and force 26
+003:50 667 elements in red headquarter
+003:50 694 elements in blue headquarter
+003:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 112 elements
+003:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 188 elements
+003:55 red lion 2 has 0 sword 0 bomb 1 arrow and 29 elements
+003:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 70 elements
+003:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 29 elements
+003:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 161 elements
+003:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 112 elements
+003:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 94 elements
+004:00 red dragon 5 born
+004:00 blue wolf 5 born
+004:10 red dragon 5 marched to city 1 with 161 elements and force 68
+004:10 red ninja 4 marched to city 2 with 112 elements and force 151
+004:10 red wolf 3 marched to city 3 with 188 elements and force 144
+004:10 red lion 2 marched to city 4 with 29 elements and force 173
+004:10 red iceman 1 marched to city 5 with 63 elements and force 26
+004:10 blue lion 1 marched to city 11 with 29 elements and force 173
+004:10 blue dragon 2 marched to city 12 with 161 elements and force 68
+004:10 blue ninja 3 marched to city 13 with 112 elements and force 151
+004:10 blue iceman 4 marched to city 14 with 85 elements and force 26
+004:10 blue wolf 5 marched to city 15 with 188 elements and force 144
+004:50 506 elements in red headquarter
+004:50 506 elements in blue headquarter
+004:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+004:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 112 elements
+004:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 188 elements
+004:55 red lion 2 has 0 sword 0 bomb 1 arrow and 29 elements
+004:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 63 elements
+004:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 29 elements
+004:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 161 elements
+004:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 112 elements
+004:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 85 elements
+004:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 188 elements
+005:00 red iceman 6 born
+005:00 blue lion 6 born
+Its loyalty is 477
+005:10 red iceman 6 marched to city 1 with 94 elements and force 26
+005:10 red dragon 5 marched to city 2 with 161 elements and force 68
+005:10 red ninja 4 marched to city 3 with 112 elements and force 151
+005:10 red wolf 3 marched to city 4 with 188 elements and force 144
+005:10 red lion 2 marched to city 5 with 29 elements and force 173
+005:10 red iceman 1 marched to city 6 with 57 elements and force 26
+005:10 blue lion 1 marched to city 10 with 29 elements and force 173
+005:10 blue dragon 2 marched to city 11 with 161 elements and force 68
+005:10 blue ninja 3 marched to city 12 with 112 elements and force 151
+005:10 blue iceman 4 marched to city 13 with 77 elements and force 26
+005:10 blue wolf 5 marched to city 14 with 188 elements and force 144
+005:10 blue lion 6 marched to city 15 with 29 elements and force 173
+005:50 402 elements in red headquarter
+005:50 477 elements in blue headquarter
+005:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 94 elements
+005:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+005:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 112 elements
+005:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 188 elements
+005:55 red lion 2 has 0 sword 0 bomb 1 arrow and 29 elements
+005:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 57 elements
+005:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 29 elements
+005:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 161 elements
+005:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 112 elements
+005:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 77 elements
+005:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 188 elements
+005:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 29 elements
+006:00 red lion 7 born
+Its loyalty is 373
+006:00 blue dragon 7 born
+006:10 red lion 7 marched to city 1 with 29 elements and force 173
+006:10 red iceman 6 marched to city 2 with 85 elements and force 26
+006:10 red dragon 5 marched to city 3 with 161 elements and force 68
+006:10 red ninja 4 marched to city 4 with 112 elements and force 151
+006:10 red wolf 3 marched to city 5 with 188 elements and force 144
+006:10 red lion 2 marched to city 6 with 29 elements and force 173
+006:10 red iceman 1 marched to city 7 with 52 elements and force 26
+006:10 blue lion 1 marched to city 9 with 29 elements and force 173
+006:10 blue dragon 2 marched to city 10 with 161 elements and force 68
+006:10 blue ninja 3 marched to city 11 with 112 elements and force 151
+006:10 blue iceman 4 marched to city 12 with 70 elements and force 26
+006:10 blue wolf 5 marched to city 13 with 188 elements and force 144
+006:10 blue lion 6 marched to city 14 with 29 elements and force 173
+006:10 blue dragon 7 marched to city 15 with 161 elements and force 68
+006:50 373 elements in red headquarter
+006:50 316 elements in blue headquarter
+006:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+006:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 85 elements
+006:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+006:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 112 elements
+006:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 188 elements
+006:55 red lion 2 has 0 sword 0 bomb 1 arrow and 29 elements
+006:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 52 elements
+006:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 29 elements
+006:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 161 elements
+006:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 112 elements
+006:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 70 elements
+006:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 188 elements
+006:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 29 elements
+006:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 161 elements
+007:00 red wolf 8 born
+007:00 blue ninja 8 born
+007:10 red wolf 8 marched to city 1 with 188 elements and force 144
+007:10 red lion 7 marched to city 2 with 29 elements and force 173
+007:10 red iceman 6 marched to city 3 with 77 elements and force 26
+007:10 red dragon 5 marched to city 4 with 161 elements and force 68
+007:10 red ninja 4 marched to city 5 with 112 elements and force 151
+007:10 red wolf 3 marched to city 6 with 188 elements and force 144
+007:10 red lion 2 marched to city 7 with 29 elements and force 173
+007:10 red iceman 1 marched to city 8 with 47 elements and force 26
+007:10 blue lion 1 marched to city 8 with 29 elements and force 173
+007:10 blue dragon 2 marched to city 9 with 161 elements and force 68
+007:10 blue ninja 3 marched to city 10 with 112 elements and force 151
+007:10 blue iceman 4 marched to city 11 with 63 elements and force 26
+007:10 blue wolf 5 marched to city 12 with 188 elements and force 144
+007:10 blue lion 6 marched to city 13 with 29 elements and force 173
+007:10 blue dragon 7 marched to city 14 with 161 elements and force 68
+007:10 blue ninja 8 marched to city 15 with 112 elements and force 151
+007:40 both red iceman 1 and blue lion 1 died in city 8
+007:50 185 elements in red headquarter
+007:50 204 elements in blue headquarter
+007:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 188 elements
+007:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+007:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 77 elements
+007:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+007:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 112 elements
+007:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 188 elements
+007:55 red lion 2 has 0 sword 0 bomb 1 arrow and 29 elements
+007:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 161 elements
+007:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 112 elements
+007:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 63 elements
+007:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 188 elements
+007:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 29 elements
+007:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 161 elements
+007:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 112 elements
+008:00 red ninja 9 born
+008:00 blue iceman 9 born
+008:10 red ninja 9 marched to city 1 with 112 elements and force 151
+008:10 red wolf 8 marched to city 2 with 188 elements and force 144
+008:10 red lion 7 marched to city 3 with 29 elements and force 173
+008:10 red iceman 6 marched to city 4 with 70 elements and force 26
+008:10 red dragon 5 marched to city 5 with 161 elements and force 68
+008:10 red ninja 4 marched to city 6 with 112 elements and force 151
+008:10 red wolf 3 marched to city 7 with 188 elements and force 144
+008:10 red lion 2 marched to city 8 with 29 elements and force 173
+008:10 blue dragon 2 marched to city 8 with 161 elements and force 68
+008:10 blue ninja 3 marched to city 9 with 112 elements and force 151
+008:10 blue iceman 4 marched to city 10 with 57 elements and force 26
+008:10 blue wolf 5 marched to city 11 with 188 elements and force 144
+008:10 blue lion 6 marched to city 12 with 29 elements and force 173
+008:10 blue dragon 7 marched to city 13 with 161 elements and force 68
+008:10 blue ninja 8 marched to city 14 with 112 elements and force 151
+008:10 blue iceman 9 marched to city 15 with 94 elements and force 26
+008:40 blue dragon 2 killed red lion 2 in city 8 remaining 110 elements
+008:40 blue dragon 2 yelled in city 8
+008:50 73 elements in red headquarter
+008:50 100 elements in blue headquarter
+008:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+008:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 188 elements
+008:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+008:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 70 elements
+008:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+008:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 112 elements
+008:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 188 elements
+008:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 110 elements
+008:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 112 elements
+008:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 57 elements
+008:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 188 elements
+008:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 29 elements
+008:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 161 elements
+008:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 112 elements
+008:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 94 elements
+009:10 red ninja 9 marched to city 2 with 112 elements and force 151
+009:10 red wolf 8 marched to city 3 with 188 elements and force 144
+009:10 red lion 7 marched to city 4 with 29 elements and force 173
+009:10 red iceman 6 marched to city 5 with 63 elements and force 26
+009:10 red dragon 5 marched to city 6 with 161 elements and force 68
+009:10 red ninja 4 marched to city 7 with 112 elements and force 151
+009:10 blue dragon 2 marched to city 7 with 110 elements and force 68
+009:10 red wolf 3 marched to city 8 with 188 elements and force 144
+009:10 blue ninja 3 marched to city 8 with 112 elements and force 151
+009:10 blue iceman 4 marched to city 9 with 52 elements and force 26
+009:10 blue wolf 5 marched to city 10 with 188 elements and force 144
+009:10 blue lion 6 marched to city 11 with 29 elements and force 173
+009:10 blue dragon 7 marched to city 12 with 161 elements and force 68
+009:10 blue ninja 8 marched to city 13 with 112 elements and force 151
+009:10 blue iceman 9 marched to city 14 with 85 elements and force 26
+009:35 red wolf 3 took 1 sword from blue ninja 3 in city 8
+009:40 red ninja 4 killed blue dragon 2 in city 7 remaining 92 elements
+009:40 red wolf 3 killed blue ninja 3 in city 8 remaining 128 elements
+009:50 73 elements in red headquarter
+009:50 100 elements in blue headquarter
+009:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+009:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 188 elements
+009:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+009:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 63 elements
+009:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+009:55 red ninja 4 has 0 sword 0 bomb 0 arrow and 92 elements
+009:55 red wolf 3 has 1 sword 0 bomb 0 arrow and 128 elements
+009:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 52 elements
+009:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 188 elements
+009:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 29 elements
+009:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 161 elements
+009:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 112 elements
+009:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 85 elements
+010:10 red ninja 9 marched to city 3 with 112 elements and force 151
+010:10 red wolf 8 marched to city 4 with 188 elements and force 144
+010:10 red lion 7 marched to city 5 with 29 elements and force 173
+010:10 red iceman 6 marched to city 6 with 57 elements and force 26
+010:10 red dragon 5 marched to city 7 with 161 elements and force 68
+010:10 red ninja 4 marched to city 8 with 92 elements and force 151
+010:10 blue iceman 4 marched to city 8 with 47 elements and force 26
+010:10 red wolf 3 marched to city 9 with 128 elements and force 144
+010:10 blue wolf 5 marched to city 9 with 188 elements and force 144
+010:10 blue lion 6 marched to city 10 with 29 elements and force 173
+010:10 blue dragon 7 marched to city 11 with 161 elements and force 68
+010:10 blue ninja 8 marched to city 12 with 112 elements and force 151
+010:10 blue iceman 9 marched to city 13 with 77 elements and force 26
+010:40 both red ninja 4 and blue iceman 4 were alive in city 8
+010:40 red wolf 3 killed blue wolf 5 in city 9 remaining 128 elements
+010:50 73 elements in red headquarter
+010:50 100 elements in blue headquarter
+010:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+010:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 188 elements
+010:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+010:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 57 elements
+010:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+010:55 red ninja 4 has 0 sword 0 bomb 0 arrow and 82 elements
+010:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 42 elements
+010:55 red wolf 3 has 1 sword 0 bomb 0 arrow and 128 elements
+010:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 29 elements
+010:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 161 elements
+010:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 112 elements
+010:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 77 elements
+011:10 red ninja 9 marched to city 4 with 112 elements and force 151
+011:10 red wolf 8 marched to city 5 with 188 elements and force 144
+011:10 red lion 7 marched to city 6 with 29 elements and force 173
+011:10 red iceman 6 marched to city 7 with 52 elements and force 26
+011:10 blue iceman 4 marched to city 7 with 38 elements and force 26
+011:10 red dragon 5 marched to city 8 with 161 elements and force 68
+011:10 red ninja 4 marched to city 9 with 82 elements and force 151
+011:10 blue lion 6 marched to city 9 with 29 elements and force 173
+011:10 red wolf 3 marched to city 10 with 128 elements and force 144
+011:10 blue dragon 7 marched to city 10 with 161 elements and force 68
+011:10 blue ninja 8 marched to city 11 with 112 elements and force 151
+011:10 blue iceman 9 marched to city 12 with 70 elements and force 26
+011:35 red wolf 3 took 1 bomb from blue dragon 7 in city 10
+011:40 red iceman 6 killed blue iceman 4 in city 7 remaining 52 elements
+011:40 blue lion 6 killed red ninja 4 in city 9 remaining 29 elements
+011:40 red wolf 3 killed blue dragon 7 in city 10 remaining 100 elements
+011:50 73 elements in red headquarter
+011:50 100 elements in blue headquarter
+011:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+011:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 188 elements
+011:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+011:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 52 elements
+011:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+011:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 29 elements
+011:55 red wolf 3 has 1 sword 0 bomb 0 arrow and 100 elements
+011:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 112 elements
+011:55 blue iceman 9 has 1 sword 0 bomb 0 arrow and 70 elements
+012:10 red ninja 9 marched to city 5 with 112 elements and force 151
+012:10 red wolf 8 marched to city 6 with 188 elements and force 144
+012:10 red lion 7 marched to city 7 with 29 elements and force 173
+012:10 red iceman 6 marched to city 8 with 47 elements and force 26
+012:10 blue lion 6 marched to city 8 with 29 elements and force 173
+012:10 red dragon 5 marched to city 9 with 161 elements and force 68
+012:10 blue ninja 8 marched to city 10 with 112 elements and force 151
+012:10 red wolf 3 marched to city 11 with 100 elements and force 144
+012:10 blue iceman 9 marched to city 11 with 63 elements and force 26
+012:35 red wolf 3 took 1 sword from blue iceman 9 in city 11
+012:40 blue lion 6 killed red iceman 6 in city 8 remaining 24 elements
+012:40 red wolf 3 killed blue iceman 9 in city 11 remaining 100 elements
+012:50 73 elements in red headquarter
+012:50 100 elements in blue headquarter
+012:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+012:55 red wolf 8 has 0 sword 0 bomb 0 arrow and 188 elements
+012:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+012:55 blue lion 6 has 2 sword 0 bomb 0 arrow and 24 elements
+012:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+012:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 112 elements
+012:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 100 elements
+013:10 red ninja 9 marched to city 6 with 112 elements and force 151
+013:10 red wolf 8 marched to city 7 with 188 elements and force 144
+013:10 blue lion 6 marched to city 7 with 24 elements and force 173
+013:10 red lion 7 marched to city 8 with 29 elements and force 173
+013:10 blue ninja 8 marched to city 9 with 112 elements and force 151
+013:10 red dragon 5 marched to city 10 with 161 elements and force 68
+013:10 red wolf 3 marched to city 12 with 100 elements and force 144
+013:35 red wolf 8 took 2 sword from blue lion 6 in city 7
+013:40 red wolf 8 killed blue lion 6 in city 7 remaining 188 elements
+013:50 73 elements in red headquarter
+013:50 100 elements in blue headquarter
+013:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+013:55 red wolf 8 has 2 sword 0 bomb 0 arrow and 188 elements
+013:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+013:55 blue ninja 8 has 1 sword 0 bomb 1 arrow and 112 elements
+013:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+013:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 100 elements
+014:10 red ninja 9 marched to city 7 with 112 elements and force 151
+014:10 red wolf 8 marched to city 8 with 188 elements and force 144
+014:10 blue ninja 8 marched to city 8 with 112 elements and force 151
+014:10 red lion 7 marched to city 9 with 29 elements and force 173
+014:10 red dragon 5 marched to city 11 with 161 elements and force 68
+014:10 red wolf 3 marched to city 13 with 100 elements and force 144
+014:35 red wolf 8 took 1 sword from blue ninja 8 in city 8
+014:40 red wolf 8 killed blue ninja 8 in city 8 remaining 98 elements
+014:50 73 elements in red headquarter
+014:50 100 elements in blue headquarter
+014:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+014:55 red wolf 8 has 3 sword 0 bomb 0 arrow and 98 elements
+014:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+014:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+014:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 100 elements
+015:10 red ninja 9 marched to city 8 with 112 elements and force 151
+015:10 red wolf 8 marched to city 9 with 98 elements and force 144
+015:10 red lion 7 marched to city 10 with 29 elements and force 173
+015:10 red dragon 5 marched to city 12 with 161 elements and force 68
+015:10 red wolf 3 marched to city 14 with 100 elements and force 144
+015:50 73 elements in red headquarter
+015:50 100 elements in blue headquarter
+015:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+015:55 red wolf 8 has 3 sword 0 bomb 0 arrow and 98 elements
+015:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+015:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+015:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 100 elements
+016:10 red ninja 9 marched to city 9 with 112 elements and force 151
+016:10 red wolf 8 marched to city 10 with 98 elements and force 144
+016:10 red lion 7 marched to city 11 with 29 elements and force 173
+016:10 red dragon 5 marched to city 13 with 161 elements and force 68
+016:10 red wolf 3 marched to city 15 with 100 elements and force 144
+016:50 73 elements in red headquarter
+016:50 100 elements in blue headquarter
+016:55 red ninja 9 has 1 sword 1 bomb 0 arrow and 112 elements
+016:55 red wolf 8 has 3 sword 0 bomb 0 arrow and 98 elements
+016:55 red lion 7 has 0 sword 1 bomb 0 arrow and 29 elements
+016:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 161 elements
+016:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 100 elements
+017:10 red ninja 9 marched to city 10 with 112 elements and force 151
+017:10 red wolf 8 marched to city 11 with 98 elements and force 144
+017:10 red lion 7 marched to city 12 with 29 elements and force 173
+017:10 red dragon 5 marched to city 14 with 161 elements and force 68
+017:10 red wolf 3 reached blue headquarter with 100 elements and force 144
+017:10 blue headquarter was taken
+Case 5:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 192
+000:10 red iceman 1 marched to city 1 with 149 elements and force 147
+000:10 blue lion 1 marched to city 3 with 61 elements and force 3
+000:50 88 elements in red headquarter
+000:50 192 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 149 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 61 elements
+001:00 red lion 2 born
+Its loyalty is 27
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 61 elements and force 3
+001:10 red iceman 1 marched to city 2 with 135 elements and force 147
+001:10 blue lion 1 marched to city 2 with 61 elements and force 3
+001:10 blue dragon 2 marched to city 3 with 49 elements and force 194
+001:40 both red iceman 1 and blue lion 1 were alive in city 2
+001:50 27 elements in red headquarter
+001:50 143 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 61 elements
+001:55 red iceman 1 has 0 sword 0 bomb 0 arrow and 105 elements
+001:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 3 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 49 elements
+002:00 blue ninja 3 born
+002:10 blue lion 1 marched to city 1 with 3 elements and force 3
+002:10 red lion 2 marched to city 2 with 61 elements and force 3
+002:10 blue dragon 2 marched to city 2 with 49 elements and force 194
+002:10 red iceman 1 marched to city 3 with 95 elements and force 147
+002:10 blue ninja 3 marched to city 3 with 17 elements and force 173
+002:40 blue dragon 2 killed red lion 2 in city 2 remaining 49 elements
+002:40 blue dragon 2 yelled in city 2
+002:40 blue ninja 3 killed red iceman 1 in city 3 remaining 17 elements
+002:50 27 elements in red headquarter
+002:50 126 elements in blue headquarter
+002:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 3 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 49 elements
+002:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 17 elements
+003:10 blue lion 1 reached red headquarter with 3 elements and force 3
+003:10 red headquarter was taken
+003:10 blue dragon 2 marched to city 1 with 49 elements and force 194
+003:10 blue ninja 3 marched to city 2 with 17 elements and force 173
+Case 6:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 13291
+000:10 red iceman 1 marched to city 1 with 141 elements and force 60
+000:10 blue lion 1 marched to city 6 with 27 elements and force 20
+000:50 13162 elements in red headquarter
+000:50 13291 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 141 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 27 elements
+001:00 red lion 2 born
+Its loyalty is 13135
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 27 elements and force 20
+001:10 red iceman 1 marched to city 2 with 127 elements and force 60
+001:10 blue lion 1 marched to city 5 with 27 elements and force 20
+001:10 blue dragon 2 marched to city 6 with 86 elements and force 2
+001:50 13135 elements in red headquarter
+001:50 13205 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 27 elements
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 127 elements
+001:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 27 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 86 elements
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 red wolf 3 marched to city 1 with 80 elements and force 111
+002:10 red lion 2 marched to city 2 with 27 elements and force 20
+002:10 red iceman 1 marched to city 3 with 115 elements and force 60
+002:10 blue lion 1 marched to city 4 with 27 elements and force 20
+002:10 blue dragon 2 marched to city 5 with 86 elements and force 2
+002:10 blue ninja 3 marched to city 6 with 170 elements and force 149
+002:50 13055 elements in red headquarter
+002:50 13035 elements in blue headquarter
+002:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 80 elements
+002:55 red lion 2 has 0 sword 0 bomb 1 arrow and 27 elements
+002:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 115 elements
+002:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 27 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 86 elements
+002:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 170 elements
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 170 elements and force 149
+003:10 red wolf 3 marched to city 2 with 80 elements and force 111
+003:10 red lion 2 marched to city 3 with 27 elements and force 20
+003:10 blue lion 1 marched to city 3 with 27 elements and force 20
+003:10 red iceman 1 marched to city 4 with 104 elements and force 60
+003:10 blue dragon 2 marched to city 4 with 86 elements and force 2
+003:10 blue ninja 3 marched to city 5 with 170 elements and force 149
+003:10 blue iceman 4 marched to city 6 with 141 elements and force 60
+003:40 both red lion 2 and blue lion 1 were alive in city 3
+003:40 both red iceman 1 and blue dragon 2 were alive in city 4
+003:40 blue dragon 2 yelled in city 4
+003:50 12885 elements in red headquarter
+003:50 12879 elements in blue headquarter
+003:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 170 elements
+003:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 80 elements
+003:55 red lion 2 has 0 sword 0 bomb 0 arrow and 19 elements
+003:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 11 elements
+003:55 red iceman 1 has 0 sword 0 bomb 0 arrow and 92 elements
+003:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 62 elements
+003:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 170 elements
+003:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 141 elements
+004:00 red dragon 5 born
+004:00 blue wolf 5 born
+004:10 red dragon 5 marched to city 1 with 86 elements and force 2
+004:10 red ninja 4 marched to city 2 with 170 elements and force 149
+004:10 blue lion 1 marched to city 2 with 11 elements and force 20
+004:10 red wolf 3 marched to city 3 with 80 elements and force 111
+004:10 blue dragon 2 marched to city 3 with 62 elements and force 2
+004:10 red lion 2 marched to city 4 with 19 elements and force 20
+004:10 blue ninja 3 marched to city 4 with 170 elements and force 149
+004:10 red iceman 1 marched to city 5 with 83 elements and force 60
+004:10 blue iceman 4 marched to city 5 with 127 elements and force 60
+004:10 blue wolf 5 marched to city 6 with 80 elements and force 111
+004:40 red ninja 4 killed blue lion 1 in city 2 remaining 170 elements
+004:40 both red wolf 3 and blue dragon 2 were alive in city 3
+004:40 blue dragon 2 yelled in city 3
+004:40 blue ninja 3 killed red lion 2 in city 4 remaining 170 elements
+004:40 both red iceman 1 and blue iceman 4 were alive in city 5
+004:50 12799 elements in red headquarter
+004:50 12799 elements in blue headquarter
+004:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 86 elements
+004:55 red ninja 4 has 0 sword 0 bomb 1 arrow and 170 elements
+004:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 80 elements
+004:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 62 elements
+004:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 170 elements
+004:55 red iceman 1 has 0 sword 0 bomb 0 arrow and 59 elements
+004:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 115 elements
+004:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 80 elements
+005:00 red iceman 6 born
+005:00 blue lion 6 born
+Its loyalty is 12772
+005:10 red iceman 6 marched to city 1 with 141 elements and force 60
+005:10 red dragon 5 marched to city 2 with 86 elements and force 2
+005:10 blue dragon 2 marched to city 2 with 62 elements and force 2
+005:10 red ninja 4 marched to city 3 with 170 elements and force 149
+005:10 blue ninja 3 marched to city 3 with 170 elements and force 149
+005:10 red wolf 3 marched to city 4 with 80 elements and force 111
+005:10 blue iceman 4 marched to city 4 with 104 elements and force 60
+005:10 blue wolf 5 marched to city 5 with 80 elements and force 111
+005:10 red iceman 1 marched to city 6 with 54 elements and force 60
+005:10 blue lion 6 marched to city 6 with 27 elements and force 20
+005:40 both red dragon 5 and blue dragon 2 were alive in city 2
+005:40 red dragon 5 yelled in city 2
+005:40 blue dragon 2 yelled in city 2
+005:40 blue ninja 3 killed red ninja 4 in city 3 remaining 82 elements
+005:40 both red wolf 3 and blue iceman 4 were alive in city 4
+005:40 blue lion 6 killed red iceman 1 in city 6 remaining 27 elements
+005:50 12643 elements in red headquarter
+005:50 12772 elements in blue headquarter
+005:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 141 elements
+005:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 86 elements
+005:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 62 elements
+005:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 82 elements
+005:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 80 elements
+005:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 104 elements
+005:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 80 elements
+005:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 27 elements
+006:00 red lion 7 born
+Its loyalty is 12616
+006:00 blue dragon 7 born
+006:10 red lion 7 marched to city 1 with 27 elements and force 20
+006:10 blue dragon 2 marched to city 1 with 62 elements and force 2
+006:10 red iceman 6 marched to city 2 with 127 elements and force 60
+006:10 blue ninja 3 marched to city 2 with 82 elements and force 149
+006:10 red dragon 5 marched to city 3 with 86 elements and force 2
+006:10 blue iceman 4 marched to city 3 with 94 elements and force 60
+006:10 blue wolf 5 marched to city 4 with 80 elements and force 111
+006:10 red wolf 3 marched to city 5 with 80 elements and force 111
+006:10 blue lion 6 marched to city 5 with 27 elements and force 20
+006:10 blue dragon 7 marched to city 6 with 86 elements and force 2
+006:35 red wolf 3 took 1 sword from blue lion 6 in city 5
+006:40 both red lion 7 and blue dragon 2 were alive in city 1
+006:40 blue dragon 2 yelled in city 1
+006:40 blue ninja 3 killed red iceman 6 in city 2 remaining 34 elements
+006:40 both red dragon 5 and blue iceman 4 were alive in city 3
+006:40 red dragon 5 yelled in city 3
+006:40 red wolf 3 killed blue lion 6 in city 5 remaining 80 elements
+006:50 12616 elements in red headquarter
+006:50 12686 elements in blue headquarter
+006:55 red lion 7 has 0 sword 0 bomb 0 arrow and 23 elements
+006:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 54 elements
+006:55 blue ninja 3 has 2 sword 0 bomb 0 arrow and 34 elements
+006:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 86 elements
+006:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 94 elements
+006:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 80 elements
+006:55 red wolf 3 has 1 sword 0 bomb 0 arrow and 80 elements
+006:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 86 elements
+007:00 red wolf 8 born
+007:00 blue ninja 8 born
+007:10 blue dragon 2 reached red headquarter with 54 elements and force 2
+007:10 red headquarter was taken
+007:10 red wolf 8 marched to city 1 with 80 elements and force 111
+007:10 blue ninja 3 marched to city 1 with 34 elements and force 149
+007:10 red lion 7 marched to city 2 with 23 elements and force 20
+007:10 blue iceman 4 marched to city 2 with 85 elements and force 60
+007:10 blue wolf 5 marched to city 3 with 80 elements and force 111
+007:10 red dragon 5 marched to city 4 with 86 elements and force 2
+007:10 blue dragon 7 marched to city 5 with 86 elements and force 2
+007:10 red wolf 3 marched to city 6 with 80 elements and force 111
+007:10 blue ninja 8 marched to city 6 with 170 elements and force 149
+Case 7:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 26863
+000:10 red iceman 1 marched to city 1 with 41 elements and force 43
+000:10 blue lion 1 marched to city 4 with 200 elements and force 158
+000:50 27018 elements in red headquarter
+000:50 26863 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 41 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 200 elements
+001:00 red lion 2 born
+Its loyalty is 26818
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 200 elements and force 158
+001:10 red iceman 1 marched to city 2 with 37 elements and force 43
+001:10 blue lion 1 marched to city 3 with 200 elements and force 158
+001:10 blue dragon 2 marched to city 4 with 106 elements and force 118
+001:50 26818 elements in red headquarter
+001:50 26757 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 200 elements
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 37 elements
+001:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 200 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 106 elements
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 red wolf 3 marched to city 1 with 21 elements and force 58
+002:10 red lion 2 marched to city 2 with 200 elements and force 158
+002:10 blue lion 1 marched to city 2 with 200 elements and force 158
+002:10 red iceman 1 marched to city 3 with 34 elements and force 43
+002:10 blue dragon 2 marched to city 3 with 106 elements and force 118
+002:10 blue ninja 3 marched to city 4 with 170 elements and force 156
+002:40 both red lion 2 and blue lion 1 were alive in city 2
+002:40 blue dragon 2 killed red iceman 1 in city 3 remaining 89 elements
+002:40 blue dragon 2 yelled in city 3
+002:50 26797 elements in red headquarter
+002:50 26587 elements in blue headquarter
+002:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 21 elements
+002:55 red lion 2 has 0 sword 0 bomb 0 arrow and 137 elements
+002:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 75 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 89 elements
+002:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 170 elements
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 170 elements and force 156
+003:10 blue lion 1 marched to city 1 with 75 elements and force 158
+003:10 red wolf 3 marched to city 2 with 21 elements and force 58
+003:10 blue dragon 2 marched to city 2 with 89 elements and force 118
+003:10 red lion 2 marched to city 3 with 137 elements and force 158
+003:10 blue ninja 3 marched to city 3 with 170 elements and force 156
+003:10 blue iceman 4 marched to city 4 with 41 elements and force 43
+003:35 red wolf 3 took 1 arrow from blue dragon 2 in city 2
+003:40 red ninja 4 killed blue lion 1 in city 1 remaining 170 elements
+003:40 both red wolf 3 and blue dragon 2 were alive in city 2
+003:40 blue dragon 2 yelled in city 2
+003:40 blue ninja 3 killed red lion 2 in city 3 remaining 170 elements
+003:50 26627 elements in red headquarter
+003:50 26542 elements in blue headquarter
+003:55 red ninja 4 has 0 sword 0 bomb 1 arrow and 170 elements
+003:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 21 elements
+003:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 72 elements
+003:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 170 elements
+003:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 41 elements
+004:00 red dragon 5 born
+004:00 blue wolf 5 born
+004:10 red dragon 5 marched to city 1 with 106 elements and force 118
+004:10 blue dragon 2 marched to city 1 with 72 elements and force 118
+004:10 red ninja 4 marched to city 2 with 170 elements and force 156
+004:10 blue ninja 3 marched to city 2 with 170 elements and force 156
+004:10 red wolf 3 marched to city 3 with 21 elements and force 58
+004:10 blue iceman 4 marched to city 3 with 37 elements and force 43
+004:10 blue wolf 5 marched to city 4 with 21 elements and force 58
+004:35 red wolf 3 took 1 bomb from blue iceman 4 in city 3
+004:40 both red dragon 5 and blue dragon 2 were alive in city 1
+004:40 red dragon 5 yelled in city 1
+004:40 blue dragon 2 yelled in city 1
+004:40 blue ninja 3 killed red ninja 4 in city 2 remaining 124 elements
+004:40 both red wolf 3 and blue iceman 4 were alive in city 3
+004:50 26521 elements in red headquarter
+004:50 26521 elements in blue headquarter
+004:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 106 elements
+004:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 2 elements
+004:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 124 elements
+004:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 10 elements
+004:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 14 elements
+004:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 21 elements
+005:00 red iceman 6 born
+005:00 blue lion 6 born
+Its loyalty is 26321
+005:10 blue dragon 2 reached red headquarter with 2 elements and force 118
+005:10 red headquarter was taken
+005:10 red iceman 6 marched to city 1 with 41 elements and force 43
+005:10 blue ninja 3 marched to city 1 with 124 elements and force 156
+005:10 red dragon 5 marched to city 2 with 106 elements and force 118
+005:10 blue iceman 4 marched to city 2 with 13 elements and force 43
+005:10 blue wolf 5 marched to city 3 with 21 elements and force 58
+005:10 red wolf 3 marched to city 4 with 10 elements and force 58
+005:10 blue lion 6 marched to city 4 with 200 elements and force 158
+Case 8:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 29470
+000:10 red iceman 1 marched to city 1 with 117 elements and force 5
+000:10 blue lion 1 marched to city 6 with 197 elements and force 42
+000:50 29538 elements in red headquarter
+000:50 29470 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 117 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 197 elements
+001:00 red lion 2 born
+Its loyalty is 29341
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 197 elements and force 42
+001:10 red iceman 1 marched to city 2 with 106 elements and force 5
+001:10 blue lion 1 marched to city 5 with 197 elements and force 42
+001:10 blue dragon 2 marched to city 6 with 90 elements and force 174
+001:50 29341 elements in red headquarter
+001:50 29380 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 197 elements
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 106 elements
+001:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 197 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 90 elements
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 red wolf 3 marched to city 1 with 148 elements and force 63
+002:10 red lion 2 marched to city 2 with 197 elements and force 42
+002:10 red iceman 1 marched to city 3 with 96 elements and force 5
+002:10 blue lion 1 marched to city 4 with 197 elements and force 42
+002:10 blue dragon 2 marched to city 5 with 90 elements and force 174
+002:10 blue ninja 3 marched to city 6 with 154 elements and force 36
+002:50 29193 elements in red headquarter
+002:50 29226 elements in blue headquarter
+002:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 148 elements
+002:55 red lion 2 has 0 sword 0 bomb 1 arrow and 197 elements
+002:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 96 elements
+002:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 197 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 90 elements
+002:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 154 elements
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 154 elements and force 36
+003:10 red wolf 3 marched to city 2 with 148 elements and force 63
+003:10 red lion 2 marched to city 3 with 197 elements and force 42
+003:10 blue lion 1 marched to city 3 with 197 elements and force 42
+003:10 red iceman 1 marched to city 4 with 87 elements and force 5
+003:10 blue dragon 2 marched to city 4 with 90 elements and force 174
+003:10 blue ninja 3 marched to city 5 with 154 elements and force 36
+003:10 blue iceman 4 marched to city 6 with 117 elements and force 5
+003:40 both red lion 2 and blue lion 1 were alive in city 3
+003:40 blue dragon 2 killed red iceman 1 in city 4 remaining 88 elements
+003:40 blue dragon 2 yelled in city 4
+003:50 29039 elements in red headquarter
+003:50 29097 elements in blue headquarter
+003:55 red ninja 4 has 0 sword 1 bomb 1 arrow and 154 elements
+003:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 148 elements
+003:55 red lion 2 has 0 sword 0 bomb 0 arrow and 181 elements
+003:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 165 elements
+003:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 88 elements
+003:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 154 elements
+003:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 117 elements
+004:00 red dragon 5 born
+004:00 blue wolf 5 born
+004:10 red dragon 5 marched to city 1 with 90 elements and force 174
+004:10 red ninja 4 marched to city 2 with 154 elements and force 36
+004:10 blue lion 1 marched to city 2 with 165 elements and force 42
+004:10 red wolf 3 marched to city 3 with 148 elements and force 63
+004:10 blue dragon 2 marched to city 3 with 88 elements and force 174
+004:10 red lion 2 marched to city 4 with 181 elements and force 42
+004:10 blue ninja 3 marched to city 4 with 154 elements and force 36
+004:10 blue iceman 4 marched to city 5 with 106 elements and force 5
+004:10 blue wolf 5 marched to city 6 with 148 elements and force 63
+004:40 both red ninja 4 and blue lion 1 were alive in city 2
+004:40 both red wolf 3 and blue dragon 2 were alive in city 3
+004:40 blue dragon 2 yelled in city 3
+004:40 blue ninja 3 killed red lion 2 in city 4 remaining 154 elements
+004:50 28949 elements in red headquarter
+004:50 28949 elements in blue headquarter
+004:55 red dragon 5 has 0 sword 0 bomb 1 arrow and 90 elements
+004:55 red ninja 4 has 0 sword 0 bomb 0 arrow and 154 elements
+004:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 131 elements
+004:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 148 elements
+004:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 88 elements
+004:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 154 elements
+004:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 106 elements
+004:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 148 elements
+005:00 red iceman 6 born
+005:00 blue lion 6 born
+Its loyalty is 28752
+005:10 red iceman 6 marched to city 1 with 117 elements and force 5
+005:10 blue lion 1 marched to city 1 with 131 elements and force 42
+005:10 red dragon 5 marched to city 2 with 90 elements and force 174
+005:10 blue dragon 2 marched to city 2 with 88 elements and force 174
+005:10 red ninja 4 marched to city 3 with 154 elements and force 36
+005:10 blue ninja 3 marched to city 3 with 154 elements and force 36
+005:10 red wolf 3 marched to city 4 with 148 elements and force 63
+005:10 blue iceman 4 marched to city 4 with 96 elements and force 5
+005:10 blue wolf 5 marched to city 5 with 148 elements and force 63
+005:10 blue lion 6 marched to city 6 with 197 elements and force 42
+005:35 red wolf 3 took 1 bomb from blue iceman 4 in city 4
+005:40 red iceman 6 killed blue lion 1 in city 1 remaining 117 elements
+005:40 red dragon 5 killed blue dragon 2 in city 2 remaining 90 elements
+005:40 red dragon 5 yelled in city 2
+005:40 blue ninja 3 killed red ninja 4 in city 3 remaining 154 elements
+005:40 both red wolf 3 and blue iceman 4 were alive in city 4
+005:50 28820 elements in red headquarter
+005:50 28752 elements in blue headquarter
+005:55 red iceman 6 has 1 sword 0 bomb 0 arrow and 117 elements
+005:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 90 elements
+005:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 154 elements
+005:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 136 elements
+005:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 71 elements
+005:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 148 elements
+005:55 blue lion 6 has 1 sword 0 bomb 0 arrow and 197 elements
+006:00 red lion 7 born
+Its loyalty is 28623
+006:00 blue dragon 7 born
+006:10 red lion 7 marched to city 1 with 197 elements and force 42
+006:10 red iceman 6 marched to city 2 with 106 elements and force 5
+006:10 blue ninja 3 marched to city 2 with 154 elements and force 36
+006:10 red dragon 5 marched to city 3 with 90 elements and force 174
+006:10 blue iceman 4 marched to city 3 with 64 elements and force 5
+006:10 blue wolf 5 marched to city 4 with 148 elements and force 63
+006:10 red wolf 3 marched to city 5 with 136 elements and force 63
+006:10 blue lion 6 marched to city 5 with 197 elements and force 42
+006:10 blue dragon 7 marched to city 6 with 90 elements and force 174
+006:35 red wolf 3 took 1 sword from blue lion 6 in city 5
+006:40 blue ninja 3 killed red iceman 6 in city 2 remaining 139 elements
+006:40 both red dragon 5 and blue iceman 4 were alive in city 3
+006:40 red dragon 5 yelled in city 3
+006:40 red wolf 3 killed blue lion 6 in city 5 remaining 136 elements
+006:50 28623 elements in red headquarter
+006:50 28662 elements in blue headquarter
+006:55 red lion 7 has 0 sword 1 bomb 0 arrow and 197 elements
+006:55 blue ninja 3 has 2 sword 0 bomb 0 arrow and 139 elements
+006:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 90 elements
+006:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 64 elements
+006:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 148 elements
+006:55 red wolf 3 has 1 sword 0 bomb 0 arrow and 136 elements
+006:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 90 elements
+007:00 red wolf 8 born
+007:00 blue ninja 8 born
+007:10 red wolf 8 marched to city 1 with 148 elements and force 63
+007:10 blue ninja 3 marched to city 1 with 139 elements and force 36
+007:10 red lion 7 marched to city 2 with 197 elements and force 42
+007:10 blue iceman 4 marched to city 2 with 58 elements and force 5
+007:10 blue wolf 5 marched to city 3 with 148 elements and force 63
+007:10 red dragon 5 marched to city 4 with 90 elements and force 174
+007:10 blue dragon 7 marched to city 5 with 90 elements and force 174
+007:10 red wolf 3 marched to city 6 with 136 elements and force 63
+007:10 blue ninja 8 marched to city 6 with 154 elements and force 36
+007:35 red wolf 8 took 2 sword from blue ninja 3 in city 1
+007:35 red wolf 3 took 1 sword from blue ninja 8 in city 6
+007:40 red wolf 8 killed blue ninja 3 in city 1 remaining 148 elements
+007:40 both red lion 7 and blue iceman 4 were alive in city 2
+007:40 red wolf 3 killed blue ninja 8 in city 6 remaining 116 elements
+007:50 28475 elements in red headquarter
+007:50 28508 elements in blue headquarter
+007:55 red wolf 8 has 2 sword 0 bomb 0 arrow and 148 elements
+007:55 red lion 7 has 0 sword 0 bomb 0 arrow and 189 elements
+007:55 blue iceman 4 has 0 sword 0 bomb 0 arrow and 42 elements
+007:55 blue wolf 5 has 0 sword 0 bomb 0 arrow and 148 elements
+007:55 red dragon 5 has 0 sword 0 bomb 0 arrow and 90 elements
+007:55 blue dragon 7 has 0 sword 1 bomb 0 arrow and 90 elements
+007:55 red wolf 3 has 2 sword 0 bomb 0 arrow and 116 elements
+008:00 red ninja 9 born
+008:00 blue iceman 9 born
+008:10 red ninja 9 marched to city 1 with 154 elements and force 36
+008:10 blue iceman 4 marched to city 1 with 38 elements and force 5
+008:10 red wolf 8 marched to city 2 with 148 elements and force 63
+008:10 blue wolf 5 marched to city 2 with 148 elements and force 63
+008:10 red lion 7 marched to city 3 with 189 elements and force 42
+008:10 blue dragon 7 marched to city 4 with 90 elements and force 174
+008:10 red dragon 5 marched to city 5 with 90 elements and force 174
+008:10 blue iceman 9 marched to city 6 with 117 elements and force 5
+008:10 red wolf 3 reached blue headquarter with 116 elements and force 63
+008:10 blue headquarter was taken
