@@ -1,22 +1,32 @@
-import libs.soldier
-import libs.headquarter
-from libs.schedule import Run
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# filename: main.py
+# modified: 2019-06-28
 
-#input_file = open('data/sample.txt', 'r')
-input_file = open('data/input.txt', 'r')
+from libs.soldier import Dragon, Ninja, Iceman, Lion, Wolf
+from libs.headquarter import HeadQuarter
+from libs.schedule import run
 
-case_number = int(input_file.readline())
-for T in range(case_number):
-    print("Case:%d"%(T + 1))
 
-    libs.headquarter.HeadQuarter.init_element \
-        = int(input_file.readline())
+def main():
+    # fin = open('data/sample.txt', 'r')
 
-    libs.soldier.Dragon.init_strength,  \
-        libs.soldier.Ninja.init_strength, \
-        libs.soldier.Iceman.init_strength, \
-        libs.soldier.Lion.init_strength, \
-        libs.soldier.Wolf.init_strength, \
-        = map(int, input_file.readline().split())
-    
-    Run()
+    with open('data/input.txt','r') as fin:
+
+        CASES = int(fin.readline())
+
+        for T in range(1, CASES+1):
+
+            print("Case:%d" % T)
+
+            HeadQuarter.INIT_ELEMENT = int(fin.readline())
+
+            for _Soldier, strength in zip( [Dragon, Ninja, Iceman, Lion, Wolf],
+                                           fin.readline().split() ):
+                _Soldier.INIT_STRENGTH = int(strength)
+
+            run()
+
+
+if __name__ == '__main__':
+    main()
