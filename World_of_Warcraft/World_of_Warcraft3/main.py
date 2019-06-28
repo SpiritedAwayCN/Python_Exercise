@@ -1,40 +1,37 @@
-import libs.soldier
-import libs.headquarter
-import libs.city
-from libs.schedule import Run
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# filename: main.py
+# modified: 2019-06-28
 
-#input_file = open('data/sample.txt', 'r')
-input_file = open('data/input.txt', 'r')
+from libs.soldier import Dragon, Ninja, Iceman, Lion, Wolf
+from libs.headquarter import HeadQuarter
+from libs.city import City
+from libs.schedule import run
 
-def get_number_tuple():
-    # 没有do-while真烦
-    number_tuple = tuple(map(int, input_file.readline().split()))
-    while len(number_tuple) == 0:
-        number_tuple = tuple(map(int, input_file.readline().split()))
-    return number_tuple
 
-case_number = int(input_file.readline())
-for T in range(case_number):
-    print("Case %d:"%(T + 1))
-    libs.city.City.city_list = []
+def main():
 
-    libs.headquarter.HeadQuarter.init_element, \
-        libs.city.City.N, \
-        libs.soldier.Lion.K, tle \
-        = get_number_tuple()
+    #input_file = open('data/sample.txt', 'r')
 
-    libs.soldier.Dragon.init_strength,  \
-        libs.soldier.Ninja.init_strength, \
-        libs.soldier.Iceman.init_strength, \
-        libs.soldier.Lion.init_strength, \
-        libs.soldier.Wolf.init_strength, \
-        = get_number_tuple()
-    
-    libs.soldier.Dragon.init_force,  \
-        libs.soldier.Ninja.init_force, \
-        libs.soldier.Iceman.init_force, \
-        libs.soldier.Lion.init_force, \
-        libs.soldier.Wolf.init_force, \
-        = get_number_tuple()
-    
-    Run(tle)
+    with open('data/input.txt', 'r') as _fin:
+
+        fin = ( line.rstrip('\n') for line in _fin if line.strip() != '' )
+
+        CASES = int(next(fin))
+        for T in range(1, CASES+1):
+            print("Case %d:" % T)
+
+            HeadQuarter.INIT_ELEMENT, City.N, Lion.K, TLE = map(int, next(fin).split())
+
+            for _Soldier, strength, force in zip([Dragon, Ninja, Iceman, Lion, Wolf],
+                                                 next(fin).split(),
+                                                 next(fin).split()):
+                _Soldier.INIT_STRENGTH = int(strength)
+                _Soldier.INIT_FORCE = int(force)
+
+            run(TLE)
+
+
+if __name__ == '__main__':
+    main()
+

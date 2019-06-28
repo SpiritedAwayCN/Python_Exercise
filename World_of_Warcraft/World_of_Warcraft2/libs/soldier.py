@@ -3,7 +3,7 @@
 # filename: soldier.py
 # modified: 2019-06-28
 
-__all__ = ["Soldier"]
+__all__ = ["Dragon", "Ninja", "Iceman", "Lion", "Wolf"]
 
 from .weapon import WEAPONS
 

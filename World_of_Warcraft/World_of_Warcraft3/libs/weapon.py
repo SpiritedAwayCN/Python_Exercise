@@ -1,21 +1,32 @@
-class Weapon:
-    def __init__(self):
-        pass
-    
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# filename: weapon.py
+# modified: 2019-06-28
+
+__all__ = [
+
+    "Weapon", "Sword", "Bomb", "Arrow",
+
+    "WEAPONS",
+
+    "battle_cmp",
+    "stole_cmp",
+
+]
+
+
+class Weapon(object):
+
     def __str__(self):
         return self.__class__.__name__.lower()
-    
+
 class Sword(Weapon):
     wid = 0
     factor = 2
-    def __init__(self):
-        Weapon.__init__(self)
 
 class Bomb(Weapon):
     wid = 1
     factor = 4
-    def __init__(self):
-        Weapon.__init__(self)
 
 class Arrow(Weapon):
     wid = 2
@@ -24,9 +35,7 @@ class Arrow(Weapon):
         Weapon.__init__(self)
         self.number = 2
 
-weapon_tuple = Sword, Bomb, Arrow
-def get_weapon(id):
-    return weapon_tuple[id]()
+WEAPONS = (Sword, Bomb, Arrow)
 
 def battle_cmp(wep1, wep2):
     if wep1.wid != wep2.wid:

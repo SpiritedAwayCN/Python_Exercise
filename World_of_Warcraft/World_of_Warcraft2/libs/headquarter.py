@@ -78,5 +78,5 @@ class HeadQuarter(object):
             )
         )
 
-        if soldier.remark != None:
+        if soldier.remark is not None:
             print(soldier.remark)
