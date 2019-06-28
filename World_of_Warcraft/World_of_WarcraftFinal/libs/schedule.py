@@ -1,96 +1,102 @@
-from .timer import Timer
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# filename: schedule.py
+# modified: 2019-06-28
+
+__all__ = ["run"]
+
+from .timer import timer
 from .headquarter import HeadQuarter
 from .soldier import Soldier
 from .city import City
 
-def check_termin(gametime, tle, redHQ, blueHQ):
-    if gametime.total_minute() > tle:
-        return True
-    if len(redHQ.enemies) > 1 or len(blueHQ.enemies) > 1:
-        return True
-    return False
+def run(TLE):
 
-def Run(tle):
     redHQ = HeadQuarter('red')
     blueHQ = HeadQuarter('blue')
-    gametime = Timer()
-    for i in range(City.N + 2):
-        City.city_list.append(City(i))
+    HQS = (redHQ, blueHQ)
+    citys = City.city_list = [ City(i) for i in range(City.N + 2) ]
+
+    def is_finished():
+        return timer.total > TLE or any([ len(hq.enemies) > 1 for hq in HQS ])
+
+    timer.reset()
 
     while True:
-        gametime.minute = 0
-        redHQ.make_soldier(gametime)
-        blueHQ.make_soldier(gametime)
-        
-        gametime.minute = 5
-        if check_termin(gametime, tle, redHQ, blueHQ):
-            break
-        for city in City.city_list:
-            city.lion_escape(gametime)
 
-        gametime.minute = 10
-        if check_termin(gametime, tle, redHQ, blueHQ):
-            break
-        for soldier in redHQ.soldier_list:
-            soldier.march_next(gametime, blueHQ)
-        for soldier in blueHQ.soldier_list:
-            soldier.march_next(gametime, redHQ)
-        for city in City.city_list:
-            city.print_info()
-            city.clear_arrived_soldiers()
+        timer.minute = 0
+        for hq in HQS:
+            hq.make_soldier()
 
-        gametime.minute = 20
-        if check_termin(gametime, tle, redHQ, blueHQ):
+        timer.minute = 5
+        if is_finished():
             break
-        for i in range(City.N):
-            City.city_list[i + 1].do_spawn_elements()
-        
-        gametime.minute = 30
-        if check_termin(gametime, tle, redHQ, blueHQ):
-            break
-        for i in range(City.N):
-            City.city_list[i + 1].do_attain_elements(gametime)
+        for c in citys:
+            c.lion_escape()
 
-        gametime.minute = 35
-        if check_termin(gametime, tle, redHQ, blueHQ):
+        timer.minute = 10
+        if is_finished():
             break
-        for i in range(City.N):
-            City.city_list[i + 1].do_shoot(gametime)
-        for i in range(City.N):
-            City.city_list[i + 1].after_shoot()
+        for hq, ohq in zip(HQS, reversed(HQS)):
+            for s in hq.soldiers:
+                s.march_next(ohq)
 
-        gametime.minute = 38
-        if check_termin(gametime, tle, redHQ, blueHQ):
-            break
-        for i in range(City.N):
-            City.city_list[i + 1].do_battle(gametime)
-        
-        gametime.minute = 40
-        if check_termin(gametime, tle, redHQ, blueHQ):
-            break
-        for i in range(City.N, 0, -1):
-            City.city_list[i].do_send_elements(redHQ)
-        for i in range(City.N):
-            City.city_list[i + 1].do_send_elements(blueHQ)
-        for i in range(City.N):
-            City.city_list[i + 1].after_war(gametime)
+        for c in citys:
+            c.print_info()
+            c.clear_arrived_soldiers()
 
-        gametime.minute = 50
-        if check_termin(gametime, tle, redHQ, blueHQ):
+        timer.minute = 20
+        if is_finished():
             break
-        redHQ.report_element(gametime)
-        blueHQ.report_element(gametime)
+        for c in citys[1:]:
+            c.do_spawn_elements()
 
-        gametime.minute = 55
-        if check_termin(gametime, tle, redHQ, blueHQ):
+        timer.minute = 30
+        if is_finished():
             break
-        for i in range(1, City.N + 1):
-            City.city_list[i].soldier_report(gametime, redHQ)
-        for sd in blueHQ.enemies:
-            sd.report_weapons(gametime)
-        for sd in redHQ.enemies:
-            sd.report_weapons(gametime)
-        for i in range(1, City.N + 1):
-            City.city_list[i].soldier_report(gametime, blueHQ)
+        for c in citys[1:]:
+            c.do_attain_elements()
 
-        gametime.next_hour()
+        timer.minute = 35
+        if is_finished():
+            break
+        for c in citys[1:]:
+            c.do_shoot()
+        for c in citys[1:]:
+            c.after_shoot()
+
+        timer.minute = 38
+        if is_finished():
+            break
+        for c in citys[1:]:
+            c.do_battle()
+
+        timer.minute = 40
+        if is_finished():
+            break
+
+        for c in citys[-2:0:-1]:
+            c.do_send_elements(redHQ)
+        for c in citys[1:]:
+            c.do_send_elements(blueHQ)
+        for c in citys[1:]:
+            c.after_war()
+
+        timer.minute = 50
+        if is_finished():
+            break
+        for hq in HQS:
+            hq.report_element()
+
+        timer.minute = 55
+        if is_finished():
+            break
+        for c in citys[1:]:
+            c.soldier_report(redHQ)
+        for hq in reversed(HQS):
+            for s in hq.enemies:
+                s.report_weapons()
+        for c in citys[1:]:
+            c.soldier_report(blueHQ)
+
+        timer.next_hour()

@@ -10,6 +10,7 @@ from .timer import timer
 from .weapon import Sword, Bomb, Arrow, WEAPONS, battle_cmp, stole_cmp
 from .city import City
 
+
 class Soldier(object):
 
     INIT_STRENGTH = -1
@@ -150,6 +151,7 @@ class Soldier(object):
         self._city.Soldiers[self._team.name].remove(self)
         self._team.soldiers.remove(self)
 
+
 class Dragon(Soldier):
 
     INIT_STRENGTH = 0
@@ -180,6 +182,7 @@ class Ninja(Soldier):
         wp2 = WEAPONS[(self._id + 1) % 3]()
         self._wp_list.extend([wp1, wp2])
 
+
 class Iceman(Soldier):
 
     INIT_STRENGTH = 0
@@ -189,6 +192,7 @@ class Iceman(Soldier):
         super().__init__(team, self.INIT_STRENGTH, id_, self.INIT_FORCE)
         wp = WEAPONS[self._id % 3]()
         self._wp_list.append(wp)
+
 
 class Lion(Soldier):
 
@@ -211,6 +215,7 @@ class Lion(Soldier):
         if self._loyalty <= 0:
             print("%s %s ran away" % (timer, str(self)) )
             self.erase()
+
 
 class Wolf(Soldier):
 

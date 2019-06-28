@@ -2,7 +2,7 @@ import libs.soldier
 import libs.headquarter
 import libs.city
 import libs.weapon
-from libs.schedule import Run
+from libs.schedule import run
 
 #input_file = open('data/sample.txt', 'r')
 input_file = open('data/input.txt', 'r')
@@ -19,23 +19,23 @@ for T in range(case_number):
     print("Case %d:"%(T + 1))
     libs.city.City.city_list = []
 
-    libs.headquarter.HeadQuarter.init_element, \
+    libs.headquarter.HeadQuarter.INIT_ELEMENT, \
         libs.city.City.N, libs.weapon.Arrow.R, \
         libs.soldier.Lion.K, tle \
         = get_number_tuple()
 
-    libs.soldier.Dragon.init_strength,  \
-        libs.soldier.Ninja.init_strength, \
-        libs.soldier.Iceman.init_strength, \
-        libs.soldier.Lion.init_strength, \
-        libs.soldier.Wolf.init_strength, \
+    libs.soldier.Dragon.INIT_STRENGTH,  \
+        libs.soldier.Ninja.INIT_STRENGTH, \
+        libs.soldier.Iceman.INIT_STRENGTH, \
+        libs.soldier.Lion.INIT_STRENGTH, \
+        libs.soldier.Wolf.INIT_STRENGTH, \
         = get_number_tuple()
-    
-    libs.soldier.Dragon.init_force,  \
-        libs.soldier.Ninja.init_force, \
-        libs.soldier.Iceman.init_force, \
-        libs.soldier.Lion.init_force, \
-        libs.soldier.Wolf.init_force, \
+
+    libs.soldier.Dragon.INIT_FORCE,  \
+        libs.soldier.Ninja.INIT_FORCE, \
+        libs.soldier.Iceman.INIT_FORCE, \
+        libs.soldier.Lion.INIT_FORCE, \
+        libs.soldier.Wolf.INIT_FORCE, \
         = get_number_tuple()
-    
-    Run(tle)
+
+    run(tle)
