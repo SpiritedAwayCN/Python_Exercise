@@ -1,22 +1,29 @@
-class Weapon:
-    def __init__(self):
-        pass
-    
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# filename: weapon.py
+# modified: 2019-06-28
+
+__all__= [
+
+    "Sword", "Bomb", "Arrow",
+    "WEAPONS",
+
+]
+
+
+class Weapon(object):
+
     def __str__(self):
         return self.__class__.__name__.lower()
-    
+
 class Sword(Weapon):
-    def __init__(self):
-        Weapon.__init__(self)
+    pass
 
 class Bomb(Weapon):
-    def __init__(self):
-        Weapon.__init__(self)
+    pass
 
 class Arrow(Weapon):
-    def __init__(self):
-        Weapon.__init__(self)
+    pass
 
-weapon_tuple = Sword, Bomb, Arrow
-def get_weapon(id):
-    return weapon_tuple[id]()
+
+WEAPONS = (Sword, Bomb, Arrow)

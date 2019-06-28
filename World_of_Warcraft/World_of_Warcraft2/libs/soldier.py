@@ -1,60 +1,97 @@
-from .weapon import Sword
-from .weapon import Bomb
-from .weapon import Arrow
-from .weapon import get_weapon
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# filename: soldier.py
+# modified: 2019-06-28
 
-class Soldier:
-    def __init__(self, team, strength, id):
-        self.team = team
+__all__ = ["Soldier"]
+
+from .weapon import WEAPONS
+
+class Soldier(object):
+
+    INIT_STRENGTH = -1
+
+    def __init__(self, team, strength, id_):
+        self._team = team
         self.strength = strength
-        self.id = id
-        self.weapon_list = []
-        self.remark = None
+        self._id = id_
+        self._weapon_list = []
+        self._remark = None
 
-    def __str__(self):
-        return self.team.name + ' ' + self.__class__.__name__.lower() + ' ' + str(self.id)
-
-    def type_name(self):
+    @property
+    def type(self):
         return self.__class__.__name__.lower()
 
+    @property
+    def team(self):
+        return self._team
+
+    @property
+    def id(self):
+        return self._id
+
+    @property
+    def remark(self):
+        return self._remark
+
+    def __str__(self):
+        return "%s %s %s" % (self._team.name, self.type, self._id)
+
+
 class Dragon(Soldier):
-    init_strength = 0
-    def __init__(self, team, id, elem):
-        Soldier.__init__(self, team, self.init_strength, id)
-        wp = get_weapon(id%3)
-        self.morale = elem / self.init_strength - 1
-        self.weapon_list.append(wp)
-        self.remark = "It has a %s,and it's morale is %.2f"%(str(wp), self.morale)
+
+    INIT_STRENGTH = 0
+
+    def __init__(self, team, id_, elem):
+        super().__init__(team, self.INIT_STRENGTH, id_)
+        wp = WEAPONS[self._id % 3]()
+        self._morale = elem / self.INIT_STRENGTH - 1
+        self._weapon_list.append(wp)
+        self._remark = "It has a %s,and it's morale is %.2f" % (str(wp), self._morale)
+
+    @property
+    def morale(self):
+        return self._morale
 
 
 class Ninja(Soldier):
-    init_strength = 0
-    def __init__(self, team, id, elem):
-        Soldier.__init__(self, team, self.init_strength, id)
-        wp = get_weapon(id%3)
-        self.weapon_list.append(wp)
-        self.remark = "It has a " + str(wp)
-        wp = get_weapon((id + 1)%3)
-        self.weapon_list.append(wp)
-        self.remark += " and a " + str(wp)
+
+    INIT_STRENGTH = 0
+
+    def __init__(self, team, id_, elem):
+        super().__init__(team, self.INIT_STRENGTH, id_)
+        wp1 = WEAPONS[self._id % 3]()
+        wp2 = WEAPONS[(self._id + 1)%3]()
+        self._weapon_list.extend([wp1, wp2])
+        self._remark = "It has a %s and a %s" % (str(wp1), str(wp2))
 
 class Iceman(Soldier):
-    init_strength = 0
-    def __init__(self, team, id, elem):
-        Soldier.__init__(self, team, self.init_strength, id)
-        wp = get_weapon(id%3)
-        self.weapon_list.append(wp)
-        self.remark = "It has a " + str(wp)
-        
+
+    INIT_STRENGTH = 0
+
+    def __init__(self, team, id_, elem):
+        super().__init__(team, self.INIT_STRENGTH, id_)
+        wp = WEAPONS[self._id % 3]()
+        self._weapon_list.append(wp)
+        self._remark = "It has a %s" % str(wp)
+
 class Lion(Soldier):
-    init_strength = 0
-    def __init__(self, team, id, elem):
-        Soldier.__init__(self, team, self.init_strength, id)
-        self.loyalty = elem - self.init_strength
-        self.remark = "It's loyalty is %d"%(self.loyalty)
+
+    INIT_STRENGTH = 0
+
+    def __init__(self, team, id_, elem):
+        super().__init__(team, self.INIT_STRENGTH, id_)
+        self._loyalty = elem - self.INIT_STRENGTH
+        self._remark = "It's loyalty is %d" % self._loyalty
+
+    @property
+    def loyalty(self):
+        return self._loyalty
 
 
 class Wolf(Soldier):
-    init_strength = 0
-    def __init__(self, team, id, elem):
-        Soldier.__init__(self, team, self.init_strength, id)
+
+    INIT_STRENGTH = 0
+
+    def __init__(self, team, id_, elem):
+        super().__init__(team, self.INIT_STRENGTH, id_)

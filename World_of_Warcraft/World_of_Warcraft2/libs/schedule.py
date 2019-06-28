@@ -1,17 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# filename: schedule.py
+# modified: 2019-06-28
+
 from .timer import Timer
 from .headquarter import HeadQuarter
-from .soldier import Soldier
 
-def Run():
-    redHQ = HeadQuarter('red')
+def run():
+    redHQ  = HeadQuarter('red')
     blueHQ = HeadQuarter('blue')
-    gametime = Timer()
+    timer  = Timer()
 
     while True:
-        gametime.minute = 0
-        redHQ.make_soldier(gametime)
-        blueHQ.make_soldier(gametime)
+
+        redHQ.make_soldier(timer)
+        blueHQ.make_soldier(timer)
+
         if redHQ.lose and blueHQ.lose:
             break
-        
-        gametime.next_hour()
+
+        timer.next_hour()

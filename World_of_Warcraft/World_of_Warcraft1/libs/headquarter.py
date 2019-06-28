@@ -5,6 +5,7 @@
 
 __all__ = ["HeadQuarter"]
 
+from collections import defaultdict, Counter
 from .soldier import Dragon, Ninja, Iceman, Lion, Wolf
 
 class HeadQuarter(object):
@@ -21,7 +22,8 @@ class HeadQuarter(object):
         self._lose = False
         self._element = self.INIT_ELEMENT
         self._soldier_list = []
-        self._soldier_count = {'dragon':0, 'ninja':0, 'iceman':0, 'lion':0, 'wolf':0}
+        # self._soldier_count = defaultdict(lambda: 0)
+        self._soldier_count = Counter()
         self._soldier_id = 0
         self._soldier_iter = self._soldier_generator(self.SOLDIER_ORDER[self._name])
 
