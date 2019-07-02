@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # filename: weapon.py
-# modified: 2019-06-28
+# modified: 2019-07-02
 
 __all__ = ["Sword","Bomb","Arrow"]
 
@@ -12,7 +12,7 @@ class Weapon:
         return self.__class__.__name__
 
     def __str__(self):
-        return self.__class__.__name__.lower()
+        return self.name.lower()
 
 
 class Sword(Weapon):

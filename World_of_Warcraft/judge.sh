@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if test -z "$1"; then
+if test -z $1; then
 	echo "Usage: ./judge.sh ./World_of_Warcraftx/"
 	exit 0
 fi

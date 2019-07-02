@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # filename: city.py
-# modified: 2019-06-28
+# modified: 2019-07-02
 '''
 战斗逻辑：
 1. 第30分钟获取生命元顺便检查当前城市是否有两方武士，若是，则self.battle
@@ -148,63 +148,51 @@ class City(object):
 
 
     def after_war(self):
+        from .soldier import Dragon, Lion
+
         if not self.battle:
             return
         self.battle = False
         self.shot_to_death = False
         self.print_info()
-        if self.Soldiers['red'][0].strength > 0:
-            if hasattr(self.Soldiers['red'][0], 'yell'):
-                if self.Soldiers['blue'][0].strength <= 0:
-                    self.Soldiers['red'][0].morale += 0.2
-                else:
-                    self.Soldiers['red'][0].morale -= 0.2
-                if self.get_first()==0:
-                    self.Soldiers['red'][0].yell(self)
-            if hasattr(self.Soldiers['blue'][0], 'loyalty'):
-                self.Soldiers['blue'][0].lose_loyalty()
-                if self.Soldiers['blue'][0].strength <= 0:
-                    self.Soldiers['red'][0].strength += self.Soldiers['blue'][0].temp_hp
-            if self.Soldiers['blue'][0].strength <= 0:
-                self.Soldiers['blue'][0].was_stolen_weapons(self.Soldiers['red'][0])
 
-
-        if self.Soldiers['blue'][0].strength > 0:
-            if hasattr(self.Soldiers['blue'][0], 'yell'):
-                if self.Soldiers['red'][0].strength <= 0:
-                    self.Soldiers['blue'][0].morale += 0.2
-                else:
-                    self.Soldiers['blue'][0].morale -= 0.2
-                if self.get_first()==1:
-                    self.Soldiers['blue'][0].yell(self)
-            if hasattr(self.Soldiers['red'][0], 'loyalty'):
-                self.Soldiers['red'][0].lose_loyalty()
-                if self.Soldiers['red'][0].strength <= 0:
-                    self.Soldiers['blue'][0].strength += self.Soldiers['red'][0].temp_hp
-            if self.Soldiers['red'][0].strength <= 0:
-                self.Soldiers['red'][0].was_stolen_weapons(self.Soldiers['blue'][0])
+        for c1, c2, side in [ ('red','blue',0), ('blue','red',1) ]:
+            s1 = self.Soldiers[c1][0]
+            s2 = self.Soldiers[c2][0]
+            if s1.strength > 0:
+                if isinstance(s1, Dragon):
+                    s1.morale += 0.2 if s2.strength <= 0 else -0.2
+                    if self.get_first() == side:
+                        s1.yell(self)
+                if isinstance(s2, Lion):
+                    s2.lose_loyalty()
+                    if s2.strength <= 0:
+                        s1.strength += s2.temp_hp
+                if s2.strength <= 0:
+                    s2.was_stolen_weapons(s1)
 
         both_die = False
-        if self.Soldiers['red'][0].strength <= 0:
-            self.Soldiers['red'][0].erase()
-            both_die = True
-        if self.Soldiers['blue'][0].strength <= 0:
-            self.Soldiers['blue'][0].erase()
-            both_die = True
+        for color in ('red','blue'):
+            s = self.Soldiers[color][0]
+            if s.strength <= 0:
+                s.erase()
+                both_die = True
 
-        if self.winner == None:
+        if self.winner is None:
             # 这里逻辑不优雅
             if not both_die:
-                self.last_winner = None #双活
+                self.last_winner = None # 双活
             return
 
         if self._element > 0:
-            self.Soldiers[self.winner][0].team.add_elements(self._element)
-            print(timer, str(self.Soldiers[self.winner][0]), 'earned', self._element, \
-                'elements for his headquarter')
+            ws = self.Soldiers[self.winner][0]
+            ws.team.add_elements(self._element)
+            print("%s %s earned %s elements for his headquarter" % (timer, str(ws), self._element) )
             self._element = 0
+
         if self.winner == self.last_winner and self.winner != self.flag:
             self.flag = self.winner
-            print(timer, self.winner, 'flag raised in', self)
+            print("%s %s flag raised in %s" % (timer, self.winner, str(self)) )
+
         self.last_winner = self.winner
         self.winner = None
